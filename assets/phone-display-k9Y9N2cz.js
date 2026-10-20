@@ -1,0 +1,1 @@
+function l(c){const s=c.trim(),i=/^\+972(\d{8,9})$/.exec(s);if(i){const t=i[1],e=t.length===9?2:1,n=t.slice(0,e),r=t.slice(e);return`+972 ${n}-${r.slice(0,3)}-${r.slice(3)}`}const o=/^0(\d{8,9})$/.exec(s);if(o){const t=o[1],e=t.length===9?2:1,n=t.slice(e);return`0${t.slice(0,e)}-${n.slice(0,3)}-${n.slice(3)}`}return c}export{l as f};

@@ -1,0 +1,2815 @@
+{
+  "baseline": "141d5fe0",
+  "transport": "local",
+  "history": "hash",
+  "modules": [
+    {
+      "path": "demo/main.tsx",
+      "hash": "4d7f97eae554de6b88d43e5067d6c9a7a7417f81f7b3c3b06b2c7a689c8c3494"
+    },
+    {
+      "path": "demo/adapter/isolation.ts",
+      "hash": "8488ad9ca5ac61ebddad38469905fc2ce9b0d969d9710d6eee9bf2af3b646942"
+    },
+    {
+      "path": "main.tsx",
+      "hash": "e0a8506deff1151f16eabb4043ff7e1bfb634d639f80b94d5d932a7bcd859056"
+    },
+    {
+      "path": "shared/query/query-client.ts",
+      "hash": "d4ec80184f237cb97e686883669f3cc164230f30d06ec91f52a081099e34b38d"
+    },
+    {
+      "path": "shell/router.tsx",
+      "hash": "dce405781e7dfc1abc9e8b07fad02f25ccb3a0c83654a88f057f804ae2378502"
+    },
+    {
+      "path": "shared/performance/rum.ts",
+      "hash": "30d81b88f90e6c090e4ab07d0bbbe44f534695eaa448c519fe5cac51f4712eb7"
+    },
+    {
+      "path": "shared/ui-scale/ui-scale-store.ts",
+      "hash": "fd0fa6b9aafecffbb79794d1381166c72922879bf9f3223f7382fd56b4f04d12"
+    },
+    {
+      "path": "shared/viewport/viewport-store.ts",
+      "hash": "5202355d1615ca6cc2a225a1b1638d4de4c255abc717c0b02aa5dc4f93521b1d"
+    },
+    {
+      "path": "styles.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/fonts/fonts.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/icons/index.tsx",
+      "hash": "295968501995845ddc1ef51815b89a949db18b74fd8daa92d1634d8a0cb9bbe0"
+    },
+    {
+      "path": "index.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "demo/adapter/documents.ts",
+      "hash": "aeedec1a2d56d538324fcce68f2564eea446ae88722c954291485a2a96637480"
+    },
+    {
+      "path": "demo/adapter/models.ts",
+      "hash": "81493aa41445902841db3a742d3e706a016c35340a5a0a88edada5f7394c3ebe"
+    },
+    {
+      "path": "demo/data.ts",
+      "hash": "b0045c93329cca57304f6f50fe7cdd98f7d242862b3d4a16d93ddf8b6f53eeca"
+    },
+    {
+      "path": "shell/routes/not-found.tsx",
+      "hash": "bba20d196b719248839d0481313d5b516f1b6d92dba490b2bb7dd9acf095b2fc"
+    },
+    {
+      "path": "shell/routes/root.routes.tsx",
+      "hash": "0dfb0b429235159ac6cd7736c5ef36d6aafba8c50ae3e23001e6473acfc1c738"
+    },
+    {
+      "path": "shell/routes/dashboard.routes.tsx",
+      "hash": "efe5c4c702b41d1c0343b0ae04ebb928b2d7964dd55f6e0b55b773a43fddaf24"
+    },
+    {
+      "path": "shell/routes/stub.routes.tsx",
+      "hash": "51d30bf4a717bf75789ae55a2432437f2d7717d54105f047b6d873cecb9b96fc"
+    },
+    {
+      "path": "shell/routes/people.routes.tsx",
+      "hash": "28f99bfde55b5bdfd105f574e76f607381e2d39e587c90f53d800e199ef4138f"
+    },
+    {
+      "path": "shell/routes/bin.routes.tsx",
+      "hash": "f34dda8b16cc22364be12d61841cd808dbf849ad15b49e7ba45607250d85e3ef"
+    },
+    {
+      "path": "shell/routes/cases.routes.tsx",
+      "hash": "006ad2877d6ae083d891f0c2e85507e4681f0c62a7453e9d60144c0df6d68d51"
+    },
+    {
+      "path": "shell/routes/advisers.routes.tsx",
+      "hash": "47dfb905ba0cbb6fa622bf25d9ccd38616dddb6c0e442c34ee61f5a5b9cbb00e"
+    },
+    {
+      "path": "shell/routes/campaigns.routes.tsx",
+      "hash": "31a24bc11f5b37668bf0573401cf9b9c75897bc199b8f6323254756e9dfe7d97"
+    },
+    {
+      "path": "shell/routes/companies.routes.tsx",
+      "hash": "0a216839f555ffdc59f12bb0dd27fcaa614525212d5ae848fc7953a2309f60a5"
+    },
+    {
+      "path": "shell/routes/purchases.routes.tsx",
+      "hash": "852bb75281c2f767cc96d05202a8517007b813a705fbe9793e8f2568259e15ee"
+    },
+    {
+      "path": "shell/routes/nedarim.routes.tsx",
+      "hash": "77504f4c655a6a00db64bfcbb5314702fb780ea9b9f8e12386cd91588253180a"
+    },
+    {
+      "path": "shell/routes/notifications.routes.tsx",
+      "hash": "dc6438ea87de1f368b1b6c3fc6475c8e2ba42a9a0a34a2160f1efe15ddcf48bf"
+    },
+    {
+      "path": "shell/routes/lessons.routes.tsx",
+      "hash": "a7d554c65c7553459616d8193df275358b4cf87f7fd37d6808aad80c5025666d"
+    },
+    {
+      "path": "shell/routes/portal.routes.tsx",
+      "hash": "7adda7310f55956eaa2967a695a2f8882191daddcbfd35c4c1df4131949e6e39"
+    },
+    {
+      "path": "shell/routes/inbox.routes.tsx",
+      "hash": "a691f47456a7c328cb35668d2c8b5bc68a337997c376e0e565541abf0f1315a4"
+    },
+    {
+      "path": "shell/routes/whatsapp.routes.tsx",
+      "hash": "29c197a643a6a4f490fb183f3d6514566b90b3e4d06b6bd798c00fd3c6d1bc44"
+    },
+    {
+      "path": "shell/routes/search.routes.tsx",
+      "hash": "99a81f9e96d4e3b840df55f0f2dad3a058828c9437b66c2ab71b533680131625"
+    },
+    {
+      "path": "shell/routes/inquiries.routes.tsx",
+      "hash": "4adb4c56b7398c00737f937da0327a2a40e329f768927702e07741b9258f3661"
+    },
+    {
+      "path": "shell/routes/gis-inquiries.routes.tsx",
+      "hash": "14019f2c13a5518935c96ec56739c5bb96f29b34a39c1e0d1a5b2f7db6e04a44"
+    },
+    {
+      "path": "shell/routes/profile.route.tsx",
+      "hash": "a31f30d2796caf683277cd9626609cb31cc8f81eb4bd5858e6b0e8b80796a764"
+    },
+    {
+      "path": "shell/routes/admin.routes.tsx",
+      "hash": "c13a223dcbd4c776403006fd7c994bd98f91ba75a83308cecc015d6c6889cfcb"
+    },
+    {
+      "path": "shared/icons/bootstrap-icons.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/icons/icon-alignment.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/performance/marks.ts",
+      "hash": "458b2f32f704aefae25786eb9ee2f61f534e00ed22866bd01cbf0aa897257630"
+    },
+    {
+      "path": "defaults.ts",
+      "hash": "9323a897029f3d63b003671554e40fa7249618945abafed7dcdf2360941a069e"
+    },
+    {
+      "path": "index.ts",
+      "hash": "24d196696bb58ce0374f23267d67836d86ae6879a93933346b9683ef523a8e53"
+    },
+    {
+      "path": "shell/nav.ts",
+      "hash": "e14cc64da156d3756e7594a54483003828a940119edd256abb01fb605912102a"
+    },
+    {
+      "path": "shell/components/ComingSoon.tsx",
+      "hash": "5b6702fa38b41f02d990de934a6a84e53b9f3baf2c15ca395ac52924e00d5732"
+    },
+    {
+      "path": "features/notifications/pages/NotificationCenter.tsx",
+      "hash": "eff26fdde2cc7512b0b04c876759edecd70bc21015df1c757a06ddcf87f04da0"
+    },
+    {
+      "path": "features/notifications/pages/MyNotificationsSettings.tsx",
+      "hash": "4f986afb716dfe4c1ce15abe4178d481e4e937dcc32a0ce488fc284b7ac59bc3"
+    },
+    {
+      "path": "features/notifications/schema/notifications-search.ts",
+      "hash": "d78db96a12e2e7f61cbf7d99d083dcc36000d62c588f8b8407cc6e7c0bf04614"
+    },
+    {
+      "path": "features/nedarim/schema/decline-search.ts",
+      "hash": "8e76f8a0d427b8d9607b5ddae6c89a832fa4abc91861e1d2f746f6ee8aba1fea"
+    },
+    {
+      "path": "features/nedarim/pages/NedarimOverviewPage.tsx",
+      "hash": "c9f2b016f5c0c7b58ecb3f71eb02f7ae2878868be20ab6f92520defae2029401"
+    },
+    {
+      "path": "features/nedarim/pages/DeclineTriagePage.tsx",
+      "hash": "621a5099e2bf4219b4a529c90f6bb9a5ffdc4008b1a2772d1774df7a0d771a50"
+    },
+    {
+      "path": "features/search/schema/search-search-params.ts",
+      "hash": "54edd706f43bed2d321a811752e8cb6c5c4d44d9653fd20abf035d6d386d55e7"
+    },
+    {
+      "path": "features/search/pages/SearchResults.tsx",
+      "hash": "6c5d98c3ad8948e17614e63e9e7369c748fd8df8ef65ae837bb3fed120bf77b0"
+    },
+    {
+      "path": "features/campaigns/schema/companies-search.ts",
+      "hash": "4ae8f9ff613daf6453dae107bd77dcbd21a7475f8d29ee501ba858c8e89f404e"
+    },
+    {
+      "path": "features/campaigns/pages/CompaniesList.tsx",
+      "hash": "17a00e22a5417a41705e0a68198f9594108084b7b3892ddb2a0105af6168b2c8"
+    },
+    {
+      "path": "features/campaigns/pages/CompanyDetail.tsx",
+      "hash": "c90111b84d1dc9d923a86b849a50665e9c212a295a6ac1a0dd3bba819fc7e436"
+    },
+    {
+      "path": "features/email/schema/inbox-search.ts",
+      "hash": "8fded9f417c49e2ddd7add9277a7c840b9faaf44cd6fd4d023b1340968c1c2b2"
+    },
+    {
+      "path": "features/email/pages/Inbox.tsx",
+      "hash": "0d0beb412034aa3d868d3dc287aa47c89ad3192a114d3b84ea121756ddd2e4de"
+    },
+    {
+      "path": "features/email/pages/ThreadView.tsx",
+      "hash": "d432e4f29356677f06b3cc5d3ca41aa4afdab65734dc94f1adc16bb637df739f"
+    },
+    {
+      "path": "features/whatsapp/pages/WhatsAppModule.tsx",
+      "hash": "3a40db7361aef7a222d04a563827d8c2a3cf893edd187dfa0b9dfed57dddb180"
+    },
+    {
+      "path": "shell/App.tsx",
+      "hash": "01c06e161989a750cd050e477558d31ab9413746dcc13d0b403ea584c9787c2a"
+    },
+    {
+      "path": "features/people/schema/people-search.ts",
+      "hash": "9bd638522750cafe1b34c792c3bae4975607c3e40c6ff0139bed7eee2fc40401"
+    },
+    {
+      "path": "features/people/pages/PeopleLayout.tsx",
+      "hash": "e1ad25d50cbcbf01672b3179c1ca599cc61c0239b810724decb9df809398a65e"
+    },
+    {
+      "path": "features/people/pages/PeopleDuplicatesScreen.tsx",
+      "hash": "249d948768bd4babb661d2f915f67ecfb0771d6624b686c078444cc87e2e2650"
+    },
+    {
+      "path": "features/people/pages/PersonCard.tsx",
+      "hash": "40d910e212087fc6cf05f9fc1ba2d8a481b7ae7d335562214d281b743f537205"
+    },
+    {
+      "path": "features/advisers/portal/hooks/usePortalSession.ts",
+      "hash": "44ef95f1a3781bfd293fff48892f0419c0c46724e567e09fe32ac780c1244822"
+    },
+    {
+      "path": "shared/hooks/useIdleTimeout.ts",
+      "hash": "5a73c29f021f0421771176599f279670cd1e7138014944cf0b6563da41d536a1"
+    },
+    {
+      "path": "shared/components/SessionTimeoutModal.tsx",
+      "hash": "a273d43dfeb433e405c00a0fd4c5e320c9b1df908be40a8b8ea4731bb42678ed"
+    },
+    {
+      "path": "shared/idle/idle-timeout-store.ts",
+      "hash": "57e527f3b595cab215d07ba6d7bf582d256e4d50f5f1e36d6ac0c6e0821cda59"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalLayout.tsx",
+      "hash": "7436c93999f6981871741745353d87e813ade6a066d6ec9897c2cd217c211671"
+    },
+    {
+      "path": "features/advisers/portal/pages/PortalLogin.tsx",
+      "hash": "8ae2f695896a2a93e2bfd1ad0bc282e5a6e078b2502f5195129858b5ef5d1710"
+    },
+    {
+      "path": "features/advisers/portal/pages/PortalPending.tsx",
+      "hash": "b1fbadd4a71995c07b3a985d08c11ef737fed5dde5d1f7f4f07293eef2bbedd4"
+    },
+    {
+      "path": "features/advisers/portal/pages/PortalCases.tsx",
+      "hash": "128e51f8ea8473f7c7fdadf4990b1ef2dd6ab9b544b6dca26dea50bebc66a70b"
+    },
+    {
+      "path": "features/advisers/portal/pages/PortalReferralDetail.tsx",
+      "hash": "906fb5eb42bf3433e7e9265e0813c3528716ec3ade46f32b75d0f1304ecad303"
+    },
+    {
+      "path": "features/advisers/portal/pages/PortalProfile.tsx",
+      "hash": "485a2266c2c42cf71e16e4bb463626774e42882cc28a5b5a9cd7af182935f80f"
+    },
+    {
+      "path": "features/advisers/portal/pages/SurveyForm.tsx",
+      "hash": "d2fdb94b515582f43b8b6a98e57e815daa478d26e4912e676ba1e9af03809649"
+    },
+    {
+      "path": "features/ai/pages/LessonsDigest.tsx",
+      "hash": "040997236614f5e13319ce859b8f852a739fd659860cc72f6e08f83aaff1ff4e"
+    },
+    {
+      "path": "features/gis-inquiries/schema/gis-call-log-search.ts",
+      "hash": "d7a9161b33bae32b4b6cb631153a9e455432a96258399ad031323531ecbe1fe5"
+    },
+    {
+      "path": "features/gis-inquiries/schema/gis-inquiries-search.ts",
+      "hash": "1e63915f47c24092d39f84f6d4200c5766078036461a3442c95b186ae450fc4c"
+    },
+    {
+      "path": "features/gis-inquiries/pages/GisInquiriesPage.tsx",
+      "hash": "6d19b3e0425550e0f517bcaddd14e4ec5bffa6c9097387fe47b14c33728c55bd"
+    },
+    {
+      "path": "features/gis-inquiries/components/CallFocusRoute.tsx",
+      "hash": "c6e20fc6ed67773f3befeff98352f64f69a58b46a2a9bfd0e94ab63ad1a20ff3"
+    },
+    {
+      "path": "features/gis-inquiries/pages/GisCallLogPage.tsx",
+      "hash": "53f43d4873d97a549a9d837e9171a8f502058014bad4ffc9c310fbbbc633d1dc"
+    },
+    {
+      "path": "features/inquiries/schema/inquiries-search.ts",
+      "hash": "0152200ea00e6423f5b8ad8370bc84e6065601f769786711cb5142e4dd093cfe"
+    },
+    {
+      "path": "features/inquiries/pages/InquiriesPage.tsx",
+      "hash": "ceaaeb84d7147cb44090780520609fed07bdf6c26f78ecc2b410696c45788c7b"
+    },
+    {
+      "path": "features/inquiries/components/CallFocusRoute.tsx",
+      "hash": "e253a3b34c83cb805924c8e968ecdcbab94db83b07c7980d0da5048451d6e98c"
+    },
+    {
+      "path": "features/campaigns/schema/campaigns-search.ts",
+      "hash": "c8cda3ab257f74376e96fd7f5eada90699d73ce781e8f9a0fe256a1ab38c5821"
+    },
+    {
+      "path": "features/campaigns/pages/CampaignsList.tsx",
+      "hash": "7758e6ef3bf661a0b9ab7723b35edf1d82541af79f35210c50d71ca81f4ea3c6"
+    },
+    {
+      "path": "features/campaigns/pages/CampaignsSettings.tsx",
+      "hash": "427700a8ad7786d5caab992fc9e095f35b39b27846145109f3f149b7bc2be84b"
+    },
+    {
+      "path": "features/campaigns/pages/CampaignDetail.tsx",
+      "hash": "bc05f34503377ad0a436070a825ffae6eb9309627b8e9fe243eaf07d4ff3c4ed"
+    },
+    {
+      "path": "features/campaigns/pages/MassUpdateCompose.tsx",
+      "hash": "bc4623b64ca82ed8a605db8d1640cd39d938e6e5f392c322c831ad6846e6231e"
+    },
+    {
+      "path": "features/campaigns/pages/SendResults.tsx",
+      "hash": "942ab83e697291f28b32ca4db39e484383c912b46e95c7e11662994ec1cd5a90"
+    },
+    {
+      "path": "features/dashboard/pages/DashboardPage.tsx",
+      "hash": "51df906476ad5d0666d54ab0e52391a957b17dcdf579854a207ffa2c36631ab1"
+    },
+    {
+      "path": "features/advisers/schema/advisers-search.ts",
+      "hash": "9d875bb83db7f265bde1835d5d86ab5412b21b0f81da0fcad67c47abbee0f432"
+    },
+    {
+      "path": "features/advisers/schema/commission-search.ts",
+      "hash": "e86724f466924fa12db29fe4da67f14408dacd75198d12d00a9f186b00c1a887"
+    },
+    {
+      "path": "features/advisers/pages/AdvisersList.tsx",
+      "hash": "218892a65daf381f3d0b4ab1c83d74eae5fb85e6c894246f4350c797d4eda188"
+    },
+    {
+      "path": "features/advisers/pages/AdviserDetail.tsx",
+      "hash": "89fe65563c7218c77709d366bffd72f5e8d41a38271302d93c4299696a60c17b"
+    },
+    {
+      "path": "features/advisers/pages/CommissionReport.tsx",
+      "hash": "1928e4f208193ca2d51c34c17878a083eda2f5e76223b15a480ea2286b5f51e0"
+    },
+    {
+      "path": "shell/routes/admin-layout.tsx",
+      "hash": "beab3582d078f5fb8716a81c7ccd6d2f4a54e64d2abaaa04f673a28bc74e0c7d"
+    },
+    {
+      "path": "features/users/pages/UsersAdmin.tsx",
+      "hash": "103ce4f5a17056085141a8f15834bbbda787bca1e162c5aad3a44ae026db0d7a"
+    },
+    {
+      "path": "features/roles/pages/RolesAdmin.tsx",
+      "hash": "018a174c058723e6d2fc4ebb0ade877e131f10ebc7247c640b017cebdfc419d7"
+    },
+    {
+      "path": "features/teams/pages/TeamsAdmin.tsx",
+      "hash": "91a6d7cf0d8ca873a1ec3f548dd6aaf0006771f9ecb1e149f2b825466798001e"
+    },
+    {
+      "path": "features/audit/pages/AuditLogViewer.tsx",
+      "hash": "8cc523cb0a5153e353d1616ca14690ad8e3cc69ae1105c3584cf208dec89e881"
+    },
+    {
+      "path": "features/integrations/pages/IntegrationsAdmin.tsx",
+      "hash": "75ef3624fddd5baa526a4697555aa809a3b1006e7a728143759a97ee4d0b4fce"
+    },
+    {
+      "path": "features/diagnostics/pages/DiagnosticsAdmin.tsx",
+      "hash": "c8b4a47e0baf2f5a58fa5b28db3663ae47299ab67d9bf59acdf84619789bb3de"
+    },
+    {
+      "path": "features/notifications/pages/UrgentAlertsAdminSettings.tsx",
+      "hash": "3cacc268cd585d4ca5ce71805ed4a0b158a6cf288d372c8bdb5bdcc940d47cc5"
+    },
+    {
+      "path": "features/backups/pages/BackupsPage.tsx",
+      "hash": "fa331b46e60684481f5e0a782d080fe7389507ec00685feef155372dd9e92c05"
+    },
+    {
+      "path": "features/ai/pages/PromptsAdmin.tsx",
+      "hash": "dfbd68b9e5f0de9d3d85575b221fc226fcac071c54b3499301cfa19c29efc271"
+    },
+    {
+      "path": "features/ai/pages/PromptEditor.tsx",
+      "hash": "03773673cdc86adc728fd8f456495000d8e18d841cf5b608fda886a94d90d0d3"
+    },
+    {
+      "path": "features/ai/pages/AiSettings.tsx",
+      "hash": "b9e1a8953830c46196749d43d8ceb7ef3d4615628405320edc3af07fdf2a2db5"
+    },
+    {
+      "path": "features/ai/pages/ExampleLibrary.tsx",
+      "hash": "0b4f6394b53113b0bd468fea358d80c3b557635f61e9ea8824fef459167131fd"
+    },
+    {
+      "path": "features/ai/pages/EvalWorkbench.tsx",
+      "hash": "ae446a0c7fb356ad5c6e41d1af5227cd6b92b7f644c779ecf854d07eddd199cb"
+    },
+    {
+      "path": "features/ai/pages/AiQuality.tsx",
+      "hash": "8312ad63d970e3bdd4ca26f84131db174759f2ad0087a93e3b8be7fd1d974791"
+    },
+    {
+      "path": "features/ai/pages/PromptSuggestions.tsx",
+      "hash": "a58d53dadba4b6e21c59cd8f8c4cc3c5da59a2701f8eb5a69da74f08e781fa17"
+    },
+    {
+      "path": "features/purchases/schema/unmatched-search.ts",
+      "hash": "6ca48733da22ab883cc64338158d83dfa9120625c96b8c1422557b99e99916d1"
+    },
+    {
+      "path": "features/purchases/pages/SupplierListPage.tsx",
+      "hash": "60da1de644ff9b284501ba69b983931920c480b9f36bd878567e16d233112c1a"
+    },
+    {
+      "path": "features/purchases/pages/ImportWizardPage.tsx",
+      "hash": "dcc6f459c9e2551cc01f3d793af5224b03501a6083e594a668e6a0b6e51822fa"
+    },
+    {
+      "path": "features/purchases/pages/SupplierDetailPage.tsx",
+      "hash": "f2bec3ef09230ffce7fc2a6045a72b9ad63dde9b6e913670128637abfd218900"
+    },
+    {
+      "path": "features/purchases/pages/ImportHistoryPage.tsx",
+      "hash": "3d660c439c66b0663ac1b7a9b853b2599c7df76755caa131ad5f3fbda9a1e6d7"
+    },
+    {
+      "path": "features/purchases/pages/UnmatchedReviewPage.tsx",
+      "hash": "5d47ba4d8b5f081a17f0bb007a0907352cc1422256cfcd2136ec700a5dfacd4a"
+    },
+    {
+      "path": "shell/components/RecycleBinScreen.tsx",
+      "hash": "5226b3b587d35aff3f78983efa2b332739cd7809286a7d4665810b6eb39d48f0"
+    },
+    {
+      "path": "features/profile/pages/Profile.tsx",
+      "hash": "8b2f467cfa5ab4bab267290a5e3eeb404f70eab32b01d7fb2239b6b10f3bd2f5"
+    },
+    {
+      "path": "features/cases/schema/cases-search.ts",
+      "hash": "0aefafe8e0d2425820ec5b09c22b88be97f8e404e7c9d920dcd3ff504ef81f6b"
+    },
+    {
+      "path": "features/cases/pages/CasesList.tsx",
+      "hash": "b237002a7347309bd72248ff85393c951389f265dec6073b15c3e85bee35ec89"
+    },
+    {
+      "path": "features/cases/pages/CaseCard.tsx",
+      "hash": "a6bcbfb551aeb45894103f0282851b80165595341af359f17c09441d0cead8c8"
+    },
+    {
+      "path": "features/cases/pages/CasesSettings.tsx",
+      "hash": "256c461a9575c85d889cc9be9be2aa3a5810b83c8e88dd5a8800a088766c2a86"
+    },
+    {
+      "path": "shared/auth/useCurrentUser.ts",
+      "hash": "b283faa50b9931adb210993a48c84bc49d34354d789abd6b5e2fa22e485f25b0"
+    },
+    {
+      "path": "demo/adapter/client.ts",
+      "hash": "6dd73e0d6a2369c08b5a249df01ee9620c6be931c50ad12036d90cc7b1be74c5"
+    },
+    {
+      "path": "features/login/components/Login.tsx",
+      "hash": "3a8fa50b55ed3db6cef0480b6708be4e3db980a3194803c33157130d7fe58972"
+    },
+    {
+      "path": "features/search/components/SearchBox.tsx",
+      "hash": "f42b40a9b3959f1770512627e12e08e53b145425a8613f3a6aa182e0ad8690ad"
+    },
+    {
+      "path": "shell/components/SearchTabStrip.tsx",
+      "hash": "039443031147524fe20ca7f78fe8fda20b22a84e47adbae24215f98d305ff5b5"
+    },
+    {
+      "path": "shell/search-tab.ts",
+      "hash": "63ed67548818e02b5347fb4d273bf4e0f0238a5510d2b1996bd6a6ac2668fa2a"
+    },
+    {
+      "path": "shared/workspace/search-workspace.ts",
+      "hash": "8d4ad000813e8a5a455f925b5a2a5ccf158faaf2832ca4ba8677889d8b6f66ee"
+    },
+    {
+      "path": "shared/workspace/page-instances.ts",
+      "hash": "f6a0cd4822bf90851a25f9169ebe2d2d478e95c5c2b8a5055df4828f914b4b0a"
+    },
+    {
+      "path": "shared/workspace/screen-work.ts",
+      "hash": "b84128e1e0d546f958095a33bd3e5ffaeeaa5b1fa3caae5749d400201a491c55"
+    },
+    {
+      "path": "shell/components/PageContextMenu.tsx",
+      "hash": "0fe7a4728276f3a12b4ec9392060d60eeb03d897675bcd721748121df95160f0"
+    },
+    {
+      "path": "shared/send-center/send-center.ts",
+      "hash": "fd61d8f445aa820c7b6c11516201f8119ac329c0ae5b7ca042caebf5aa112b62"
+    },
+    {
+      "path": "shell/components/SendCenterHost.tsx",
+      "hash": "9cfd60965885dc4f25b9374c1c1d57820b2ee8a5d45b1871023f473e2fe9fe30"
+    },
+    {
+      "path": "shell/components/GlobalComposerHost.tsx",
+      "hash": "137e2413fca06ff418548393856bc79578707d16d1bfb4df43aa775b864df032"
+    },
+    {
+      "path": "shell/components/SystemLoading.tsx",
+      "hash": "5584ae3ce0f09bd4454fb859c4a6ca5f7e3378b3185b7638242abd97b12ba59b"
+    },
+    {
+      "path": "shell/preload.ts",
+      "hash": "aed98e0ce50a95b8d79652487c662f8545493dee8e09457b8a70c7d562e443ce"
+    },
+    {
+      "path": "shared/workspace/local-mirror/mirror-bootstrap.ts",
+      "hash": "d84f9e628461d03620407db1dc510ed650caa48e8d4090ad1d0d8de175206ffa"
+    },
+    {
+      "path": "shared/workspace/local-mirror/mirror-db.ts",
+      "hash": "d79286cb32671a388edd9e419c1f0370396a4eaae72ed69334abe1c85ca1334b"
+    },
+    {
+      "path": "shell/components/FullscreenToggle.tsx",
+      "hash": "2369f3852a042f78c683fa5db79044941c9891c13c4c6d153e58c61646d33701"
+    },
+    {
+      "path": "shell/components/SoundToggle.tsx",
+      "hash": "90c979782d0d0fd8148e6aac45ab7567c08f2176ca1f88a4553c738018c15f4b"
+    },
+    {
+      "path": "shell/components/NewCaseAction.tsx",
+      "hash": "c16fbbebd1c75f437ddd8c4a1f366aff4e261799cd5687c5ec1af7bb76439c19"
+    },
+    {
+      "path": "shell/components/DuplicatePageAction.tsx",
+      "hash": "7da594159837d3a8d7b6992e6e4cec6e8514d2d5acb76535a15f2bb8248d9117"
+    },
+    {
+      "path": "shell/hooks/useWhatsAppAlerts.ts",
+      "hash": "63b6a20a9eaf1b2d271fbea9007fbbfbe8946cb3ff7fae20010afd90cb5895f7"
+    },
+    {
+      "path": "features/notifications/components/NotificationBell.tsx",
+      "hash": "033c31ade56e89ae03b601e0d8ab0d83da12fda6f201302cde67a9be9c4070ce"
+    },
+    {
+      "path": "index.ts",
+      "hash": "d8d4e4238e9bb45bc9612efb32470193955f45dec527c8e4bc65c3c801e7eca0"
+    },
+    {
+      "path": "client.ts",
+      "hash": "c82e8ece7a1ecd19cf6c4870704e08851213dae69aa2466972c6f0bedaf7233e"
+    },
+    {
+      "path": "features/people/components/PeopleBin.tsx",
+      "hash": "a70d36c5e00a5a8e2992b5e8ada5e69a908c4423230bc4f1e8013cff293eab6f"
+    },
+    {
+      "path": "features/cases/components/CasesBin.tsx",
+      "hash": "fe6f4d4278cbe4cf13b24da0d54215b5eee60570c5711ec0a5306eabd3679e85"
+    },
+    {
+      "path": "features/advisers/components/AdvisersBin.tsx",
+      "hash": "0fb907f0695d9374707688c4557175719d91743c37c13a68d27a0ac8ec4cec97"
+    },
+    {
+      "path": "features/campaigns/components/CampaignsBin.tsx",
+      "hash": "51e6855de7518efb0d9802f35cfa9737b74f77c068c66bd22e0b8a3a2b21d1f0"
+    },
+    {
+      "path": "features/users/components/UsersBin.tsx",
+      "hash": "c41a7e48b39475ef62a109c37a730e70781cd628768379ddf0262b41927994a2"
+    },
+    {
+      "path": "shell/components/bin-screen.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/navigation/origin-return.ts",
+      "hash": "c8f5cb455b427e64cd5b10c2b376727a54bf179542b9d613faebadbb5696faef"
+    },
+    {
+      "path": "shared/components/CallFocusDialog.tsx",
+      "hash": "dab1e08310ce8f79913e6167468e2e231cf526987bcb51b62732d3ee07f4765a"
+    },
+    {
+      "path": "features/email/components/Composer.tsx",
+      "hash": "22131b7b433b0f8b12322d0ebfbb16d63ec951c76d4eef521e30d3e2c04bbd31"
+    },
+    {
+      "path": "features/email/components/EmojiPicker.tsx",
+      "hash": "d403ea13b58f12b2ac146742e122c5b7230a44625809815c714735e4d0da382a"
+    },
+    {
+      "path": "features/email/lib/emoji.ts",
+      "hash": "3052f25a8b79714211e315a163039c3f5ee0e4ee1a474b1c11d7c6bdbd2d6435"
+    },
+    {
+      "path": "shared/components/email/CollapsedMessageRow.tsx",
+      "hash": "23d8356bc34a15922a068089b3707e4ceb056b63f67d85cfe52def6b30a866c6"
+    },
+    {
+      "path": "shared/components/email/ExpandedMessage.tsx",
+      "hash": "27c1f3b90995d44ab46ec3ccd6c53f58f3db6ead45d5125ab9da7f4c6d6a97a3"
+    },
+    {
+      "path": "features/email/components/ConvToolbar.tsx",
+      "hash": "aa0faa585fd002b628d03dbf6a289fbdd3149ed813a97228fcbf7490bc792c7f"
+    },
+    {
+      "path": "features/email/components/ConvSubject.tsx",
+      "hash": "f19e9e791f3ad679c89b4531d59ca5e6d15fa123de6a3e22b7cf560d8d17261c"
+    },
+    {
+      "path": "features/email/components/ConvLabels.tsx",
+      "hash": "74e586e421925dc64735e8f41de553af23af9cd5dc18cfe5866e8fa1af0cf5c6"
+    },
+    {
+      "path": "features/email/lib/thread-labels.ts",
+      "hash": "93a1fece8ff6a0415ec9921b6c30caf4be5919d707e737960d791a23be2ea689"
+    },
+    {
+      "path": "features/email/hooks/useThread.ts",
+      "hash": "fb2ac63329d3d7d1f9b84d8f0d0f1da409ad7b7c10324eae9cbde4dc615c8300"
+    },
+    {
+      "path": "features/email/hooks/useInboxList.ts",
+      "hash": "6c6a681fff8e88926269240f377e4ee006a0f3732e4ce48a3e1b420c4f691c52"
+    },
+    {
+      "path": "shared/workspace/useScreenScope.ts",
+      "hash": "8e3542e9ae05071b98458b11c02e18503b3be2f98a5f17c787a0b87822bad109"
+    },
+    {
+      "path": "features/email/lib/thread-draft-store.ts",
+      "hash": "214a3f3c8d1043036f344ec3129dbcef9137f35cba2d68d2d0a0203d50e2efb2"
+    },
+    {
+      "path": "features/email/lib/participants.ts",
+      "hash": "0fab298cce171e23bd012eb82ffba872b0ffaf3d26e9f90f801b426e038cdd19"
+    },
+    {
+      "path": "features/email/lib/reply-target.ts",
+      "hash": "83fa7fc0241ea6cd67a3a9d224b1fec92b3a9e7a01209ed0f3a826b0defb85b3"
+    },
+    {
+      "path": "shared/ai/useRunTask.ts",
+      "hash": "9cda236bfbbd13e26777d71c27de8dd31beb7da29d5b518999627dd9aeba3840"
+    },
+    {
+      "path": "shared/components/ai/AiSuggestionCard.tsx",
+      "hash": "4fdd592b332ca15a7fb32471c60adce824276f2c303b61bc52d8071b0d6e2c03"
+    },
+    {
+      "path": "shared/components/ai/SummaryFeedback.tsx",
+      "hash": "2e0841ac72bf9789868c9f4b65ee81061d3a8049043afc60e0cb6801da9cc10a"
+    },
+    {
+      "path": "shared/components/ai/DraftActionRecommendation.tsx",
+      "hash": "23ad10bbf00429e14a472889df461019c89d75c4586c87e49262c68ec8197be3"
+    },
+    {
+      "path": "shared/components/CaseChip.tsx",
+      "hash": "f6715f4c91646be6ecabee48cb5656bff257ed2195664cc79bbe1b5c9e206987"
+    },
+    {
+      "path": "shared/components/CasePickerDialog.tsx",
+      "hash": "7159d7e7ef8f46da8d9cd840d013d9942b899d4826d7a0edffca75846257f312"
+    },
+    {
+      "path": "shared/components/useCaseAttachment.ts",
+      "hash": "43d5c34b7649c3808b9eab4f978cf6f45b374f74ef3ed4d52e7491985995e80a"
+    },
+    {
+      "path": "shared/ai/learning-modes.ts",
+      "hash": "ecb0a5c74756d1dcf62ee0ab8123144255368fb196664fba2df181f7165b2b92"
+    },
+    {
+      "path": "features/email/pages/thread.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/components/SendResultsPanel.tsx",
+      "hash": "4a89b47f31857dcf32aa13776cb9700d4ea7a666b4d10622ff3f7adb6b915189"
+    },
+    {
+      "path": "features/campaigns/pages/mass-update.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/nedarim/components/DeclineTriageTable.tsx",
+      "hash": "9fb8721838c154f0222ecdf6066a2be7db0d91a8653a09aa9725d27107311cc8"
+    },
+    {
+      "path": "features/nedarim/pages/nedarim.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/hooks/usePromptLibrary.ts",
+      "hash": "1fab2e4bc3b3055c5c3fc942b382320e04059ce0fef08c2d35dec43c10a048e0"
+    },
+    {
+      "path": "features/ai/hooks/usePromptSuggestions.ts",
+      "hash": "e817b62106eddd18a47b977e2202f7d8fc146a0f4e348ae8bd17cf4dbec66089"
+    },
+    {
+      "path": "features/ai/components/PromptSuggestionCard.tsx",
+      "hash": "ebde97b363b847a9f65b0d64acacd6ea98ce6654dcc733478509197df09c77d7"
+    },
+    {
+      "path": "features/ai/pages/prompt-suggestions.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/gis-inquiries/hooks/useGisInquiriesList.ts",
+      "hash": "41bd50d7235ba8a893ba580f55188987387d55d0b18a09a8c46af200093ebd10"
+    },
+    {
+      "path": "features/gis-inquiries/components/InquiryRow.tsx",
+      "hash": "5b4281be1f1aa75ce868d6b2e2e73894b4c3b16f8dbba48661a4a834d848a2fd"
+    },
+    {
+      "path": "features/gis-inquiries/components/BulkSummarizeButton.tsx",
+      "hash": "01ba947af08879bae9a92159291f4cf42c2533ca0b057cd0969fd280ad0b5b5b"
+    },
+    {
+      "path": "shared/components/BulkOpenCasesDialog.tsx",
+      "hash": "3d2861985da8dfc119732a72077a94c8c2ef24d173c761049de37345368ffdfe"
+    },
+    {
+      "path": "features/gis-inquiries/components/AssignTopicPopover.tsx",
+      "hash": "6c1bff17fb35c5c62e19593582af26975aa200b62bb1db09f337a74807c9515f"
+    },
+    {
+      "path": "features/gis-inquiries/components/GroupingPanel.tsx",
+      "hash": "2a2eed6ab07de79ec2aafcb8f8c4689f49e030b8b743a1d3fb198763ca08f2de"
+    },
+    {
+      "path": "shared/components/SelectionBar.tsx",
+      "hash": "97e8a3cbc8e5c449a6a2e0f47276635032e0b97e7e1471c6e0086aa7db462554"
+    },
+    {
+      "path": "shared/components/PersonScopeBanner.tsx",
+      "hash": "d383caa914a25239c5fd2bf2415e8163602d0cf77d5578086f43bd296b51fde1"
+    },
+    {
+      "path": "features/gis-inquiries/types/send-target.ts",
+      "hash": "0778134468312bc0ec71d4837c5a18044cf6474ceba9e23f1b6286330078adeb"
+    },
+    {
+      "path": "features/gis-inquiries/lib/period-filter.ts",
+      "hash": "547f876a45cac84b30053a72f466de047742e9c5c7ea230bcbde04f3a0a55537"
+    },
+    {
+      "path": "shared/virtual-list/VirtualRows.tsx",
+      "hash": "9e6fcd76fcdaac01901b9336f927f5565d0664373fd70885568a5e23aaec3fb2"
+    },
+    {
+      "path": "shared/hooks/useRafThrottledCallback.ts",
+      "hash": "f27c0f5ef8f032e7e3b0ebbe34c8e74f09392f510402dae9922caf3af537a687"
+    },
+    {
+      "path": "shared/styles/calls-workspace.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/gis-inquiries/pages/gis-inquiries.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/components/CampaignStatusPanel.tsx",
+      "hash": "d0534a1698956c0e7ec0d3ee0fefbddb1915abc7d2e86812681218a24f8a1c87"
+    },
+    {
+      "path": "features/campaigns/pages/campaigns.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/notifications/components/notifications.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/lib/adviser-format.ts",
+      "hash": "e088feb723230b870d0cb284cf397e2c42c486de60e04bd49ff3b064a2a7eb36"
+    },
+    {
+      "path": "features/advisers/components/RatingStars.tsx",
+      "hash": "3903f7166c743e5d207b00a43e962c63cf9a37b2d31095356dc5741a3cbf97ab"
+    },
+    {
+      "path": "features/advisers/components/AdviserFormDialog.tsx",
+      "hash": "574507be65c8d4c13a5e15f0b28d17134ddce7f33426aa4138c687d267b288d1"
+    },
+    {
+      "path": "features/advisers/components/AdviserSurveysCard.tsx",
+      "hash": "12ccb339798a70b662733008fce13c64f6da9a043ef8d22c64c9d296963b63ba"
+    },
+    {
+      "path": "features/advisers/components/AdviserReferralsCard.tsx",
+      "hash": "3c1dffbe6f209212b33f2d2182c55db008757981aef224204e6e1a4a6f372c3e"
+    },
+    {
+      "path": "features/advisers/components/AdviserCommissionCard.tsx",
+      "hash": "3d40f0b5de21b18a051eb46a0f915ac7f9a1118f4c9cb4af65ca61115bccbbd3"
+    },
+    {
+      "path": "features/advisers/components/AdviserPortalIdentitiesCard.tsx",
+      "hash": "984135d48ae960481df5cc8739b27bbfc2e0ce018c0ba7b6166629b9de90fb3a"
+    },
+    {
+      "path": "features/advisers/components/MergeAdviserDialog.tsx",
+      "hash": "fb0127bbc255fcaff1d16f5a04fd669d7983aab8549504332266a6264b8ff5e9"
+    },
+    {
+      "path": "features/advisers/components/ReferCaseDialog.tsx",
+      "hash": "dbfdb6d70f4b4dcec8a32a33ab089f9717eca3e49f020d0066ec0919db24f747"
+    },
+    {
+      "path": "features/advisers/pages/advisers.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/pagination/fetch-all-pages.ts",
+      "hash": "aa73f7d650575ff2b32ddaf6c9d5655014e6abccdcae521200db25f561f5349f"
+    },
+    {
+      "path": "features/advisers/lib/referral-format.ts",
+      "hash": "d0a5e1b7bd3915e74faa72c6a4e8b2a9c1614febb06fb82365929a7d7e854f2b"
+    },
+    {
+      "path": "features/advisers/pages/commission.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/components/InboxList.tsx",
+      "hash": "e5907e1d9ac38382dbade966cfc793ccce4989f7907ab3b5dc96e9f8a1a9f9c2"
+    },
+    {
+      "path": "features/email/pages/inbox.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/components/PromptsTable.tsx",
+      "hash": "43b5f388818b97feae1a38b6ed5a51a10ededaa0b9b31b8931bcd4609a502fb4"
+    },
+    {
+      "path": "shared/components/GoogleButton.tsx",
+      "hash": "168bda009c2f7c24aa8c9bf3e7a5a761794e1fb7a70764aa109eaf83b0b9f9c9"
+    },
+    {
+      "path": "features/campaigns/lib/campaign-status-tone.ts",
+      "hash": "51fb2fca9d48b77520f7edc9727498653129bb28cdd4d59df9f30ff5c4be9858"
+    },
+    {
+      "path": "features/campaigns/components/CampaignStatusTimeline.tsx",
+      "hash": "007f2279c77560e99615fc2785f87b3afe4fa33df6e44c1948480a26677e94ab"
+    },
+    {
+      "path": "features/campaigns/components/AttachCasesDialog.tsx",
+      "hash": "69bbbd898285bf062939c85e6ef31c2fc4edefe9b213e939f86710353355e1d6"
+    },
+    {
+      "path": "features/campaigns/components/CompanyLogo.tsx",
+      "hash": "3d1d9f4be5b004ab11b1c4a2b07438bf53bed32dd6d353ee9aa7930c2ac13c03"
+    },
+    {
+      "path": "features/campaigns/components/CampaignBinControls.tsx",
+      "hash": "fd4adf6ff4823eca9089dccd0783a4f8d92a38563e262612f047e25175aa48a8"
+    },
+    {
+      "path": "features/campaigns/components/CampaignFormDialog.tsx",
+      "hash": "b56795902ae2065bb343c52a215fcb9ad4322e4e96d73d1008a119fb9281dd19"
+    },
+    {
+      "path": "features/campaigns/components/CampaignDriveControls.tsx",
+      "hash": "26dc0926835cc5fb36a1b718f1fafea48ef687d83c05db92384179f65df9c4eb"
+    },
+    {
+      "path": "features/campaigns/hooks/useCampaignDriveStatus.ts",
+      "hash": "f8c745690e04e0565837f3bb35117174c35fd6200c11ef58910cf7d428a84806"
+    },
+    {
+      "path": "features/campaigns/lib/campaigns-list-reload.ts",
+      "hash": "9c2b1b010bca5f3bd3bdb1d32b36332d3a06d8450d6c527d7896f518e801aed4"
+    },
+    {
+      "path": "features/campaigns/lib/campaign-format.ts",
+      "hash": "30cfd75937d741a42d007814f23cd140b3b8172441cc2413def1c58837042ac3"
+    },
+    {
+      "path": "features/campaigns/components/MassUpdateComposer.tsx",
+      "hash": "fe8b6e7334f17fd4896a893ec8a5c2717ae238a835054706fed567872d940915"
+    },
+    {
+      "path": "features/people/components/SuspectedDuplicatesPanel.tsx",
+      "hash": "41e7cba6a0f63a6f99ce93c698c8b3cff223d05221f03532749fe90dab69a9f0"
+    },
+    {
+      "path": "features/dashboard/api/queries.ts",
+      "hash": "88e1266e9c2322d7295ab6c65a5caa4c32dc86ce1002b87131e56c947461de1b"
+    },
+    {
+      "path": "features/dashboard/components/TrendChartPanel.tsx",
+      "hash": "9feca182fb75c86ccfd4c5eb80798d7a2c52b9cf42d590024d7b8d817b7d2a14"
+    },
+    {
+      "path": "features/dashboard/components/ActivityPanel.tsx",
+      "hash": "5e61c14e3c9025a44f1525a7f07e80e921aad740bfea9e0039dd7cfbb6674c89"
+    },
+    {
+      "path": "features/dashboard/components/AttentionPanel.tsx",
+      "hash": "29464b6535469b8058726d8ac247c946520eba78dc17d9c4ec82d08d161f80d2"
+    },
+    {
+      "path": "features/dashboard/components/CasesPanel.tsx",
+      "hash": "233a02308aacd27ce4bfcbce4ab775a8e6c91ae182a3b3d00caee1722575d38b"
+    },
+    {
+      "path": "shared/styles/page-shell.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/dashboard/pages/dashboard.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/notifications/components/KeywordDialog.tsx",
+      "hash": "6717c39c661efbfb5ec22a0c4bfe904123b80fa5f0566469da5e56a0a932cdb6"
+    },
+    {
+      "path": "features/notifications/components/RecipientPicker.tsx",
+      "hash": "a55caad3efa52d2e9f3af41763f6bd13d2a0f369834769da5efe895af2e4ab0b"
+    },
+    {
+      "path": "features/notifications/lib/event-display.ts",
+      "hash": "3da387936859128618c917c467107ae5399726bc722f35972b36107426c1aae4"
+    },
+    {
+      "path": "features/notifications/components/urgent-alerts.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/virtual-list/useIncrementalCursorList.ts",
+      "hash": "bd61ba2c3fbed040da0d637b3974c9c2840b586ecbc481ca82c2499bdcae0db9"
+    },
+    {
+      "path": "shared/virtual-list/VirtualDataTable.tsx",
+      "hash": "8469dcd1f9ff8fc531f7499bceedf77166560b1268498ed3c6eb31779ad1454e"
+    },
+    {
+      "path": "shared/virtual-list/findScrollElement.ts",
+      "hash": "98f185e55772a0f739b27d48403e85f18bf06f1b341d834e92d573cc51da7627"
+    },
+    {
+      "path": "features/advisers/api/survey.ts",
+      "hash": "16316a58dd7e2d1573aaa302897fdeb24bbf65e1dc3ac252d8659d2cbcddcb7c"
+    },
+    {
+      "path": "features/advisers/portal/components/StarRatingInput.tsx",
+      "hash": "9a6b7126b4d87cd965ea6a980dfebedb8246aaeed72499f3c3e5e66c104e7e05"
+    },
+    {
+      "path": "features/advisers/portal/components/survey.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/TelLink.tsx",
+      "hash": "8fb2765c529bebd5f8d0573cd57d8ccc88bc21d9d06008948b223e341c352186"
+    },
+    {
+      "path": "features/gis-inquiries/components/GisIngestAnomalyStrip.tsx",
+      "hash": "f9239a8857053ba6bface0ea3ac039622f0d78e6a684931e27e49412a8fb03f7"
+    },
+    {
+      "path": "features/gis-inquiries/lib/call-log-filters.ts",
+      "hash": "3821b2b5c5d9538d75f26fa4f23643847d7418c8c4d42a4e26d1e111224a95bf"
+    },
+    {
+      "path": "features/gis-inquiries/lib/caller-label.ts",
+      "hash": "d8b87e456917b3c57c5d3c866c0be45b3df56f05f49495d3254906e2be8c35ce"
+    },
+    {
+      "path": "features/gis-inquiries/pages/gis-call-log.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/config-lists/config-lists.ts",
+      "hash": "c36e34243dcd367d2c3c2984e7ea44796063707deba02869737109fb2cbeaa7d"
+    },
+    {
+      "path": "features/cases/components/CaseMergeComposeDialog.tsx",
+      "hash": "207c8934f6aa70fc9d6cd971a2d55d4872603a858f50add7f23f7009b395678b"
+    },
+    {
+      "path": "features/cases/components/ReferToAdviserDialog.tsx",
+      "hash": "2ee113fd45bfc820695e07db18402534012b47d5bdee518d2cdbfae3e20c6e5c"
+    },
+    {
+      "path": "features/cases/components/CompanyPickerDialog.tsx",
+      "hash": "80018cb01b344948577f9b9f2a4c5148142137534704cabf4ec0d0ecae70539e"
+    },
+    {
+      "path": "features/cases/components/CampaignPickerDialog.tsx",
+      "hash": "3683d1b295989df12780c5b71c9a9969901d73ff54cf5fd59c17e5d2ab2c3862"
+    },
+    {
+      "path": "features/cases/components/CaseFilesPanel.tsx",
+      "hash": "1416feda807fb9a7ff7d6398def8a09d9c3f3add5e3d20a5eb044eb373ee38ff"
+    },
+    {
+      "path": "features/cases/components/CaseIntakePanel.tsx",
+      "hash": "a75b4d471fee0d0724128ab95df5a4908223fd6c0a50b0cd9ec295fa22b14d71"
+    },
+    {
+      "path": "features/cases/components/CaseTimeline.tsx",
+      "hash": "12898ad191fddeab3a725860b9cf6218c3d76a10d9e2965036809f9fdbc9e8bc"
+    },
+    {
+      "path": "features/cases/components/CaseNoteComposer.tsx",
+      "hash": "1a899799c7f591c1e9f0fa89665f8a9aab36bf10b8af812ad2abec57bad56401"
+    },
+    {
+      "path": "features/cases/components/CaseActionsMenu.tsx",
+      "hash": "d7f6e7025524a281a8820cb51cd0bbfff910b00ed6c2fa870ff8e886372c9595"
+    },
+    {
+      "path": "features/cases/components/CaseStatusEditor.tsx",
+      "hash": "234590076b044c3404b7ff86d1a0bc3cf74227d94a0c22deba036bb735880648"
+    },
+    {
+      "path": "features/cases/components/CaseContactsPanel.tsx",
+      "hash": "abd36a50c419f34b2f26facb84ba7888770dc02dfec5e006b3760295df1d7a5c"
+    },
+    {
+      "path": "features/cases/components/CaseAdviserPanel.tsx",
+      "hash": "e8f1707cc318e9b84f45e144f0311b4924f5fa39bf2124ac8f6f4406ad3a0835"
+    },
+    {
+      "path": "features/cases/components/CaseDetailsTabs.tsx",
+      "hash": "5df014f5191ae3f47de68a74b8e2166c90fdc23696c8a0acded43dc5ff2886af"
+    },
+    {
+      "path": "features/cases/components/CaseDetailsFields.tsx",
+      "hash": "badd8d298122eb1cf3c9f2b111757c6b7f1f35604cae4c98218b4bc70c0ecf4f"
+    },
+    {
+      "path": "features/cases/lib/case-status.ts",
+      "hash": "fd726bcb066e17aff3782dc673416d47d57d731a908bf7e7e964f63f4cf720b4"
+    },
+    {
+      "path": "features/cases/lib/format.ts",
+      "hash": "7c142b6e12329cd2e6d9d8740da959421a8d0f897787561c3447065be3c94a8d"
+    },
+    {
+      "path": "shared/referrals/referral-status.ts",
+      "hash": "1873e1ba2af2dab023ecc45573847a5fdabb9bb7e8143eda03ab622f773e0ba9"
+    },
+    {
+      "path": "features/cases/pages/case-card.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/inquiries/hooks/useInquiriesList.ts",
+      "hash": "5b1d1e15528ab54940b19cc5ae1195256aec866a83b564c5ac0ddab12a27d462"
+    },
+    {
+      "path": "features/inquiries/components/InquiryRow.tsx",
+      "hash": "7e805c747b657477e48a258d4376aca499eac6d9f9663b8d76b8bb5e8c7a7fd7"
+    },
+    {
+      "path": "features/inquiries/components/BulkSummarizeButton.tsx",
+      "hash": "bb586c1ef771f663f1fd5de693ed219236ff59231bc5e91c0d3df49f6cb7dab9"
+    },
+    {
+      "path": "features/inquiries/components/AssignTopicPopover.tsx",
+      "hash": "d6bdf7a5efc6153398ec8ac5ef1f3a81df0d237f8105604afb29c8ede5e0d020"
+    },
+    {
+      "path": "features/inquiries/components/GroupingPanel.tsx",
+      "hash": "62afd0faa9391e91798102ba4efbe66b0cc686ade24c924e61a0096b2edf95a0"
+    },
+    {
+      "path": "shared/components/voice-reply/BulkVoiceReplyDialog.tsx",
+      "hash": "dc1141dffc800319a767987e594f82f4c9625e6d9c14db4215c1114218e8d1f8"
+    },
+    {
+      "path": "features/inquiries/types/send-target.ts",
+      "hash": "0778134468312bc0ec71d4837c5a18044cf6474ceba9e23f1b6286330078adeb"
+    },
+    {
+      "path": "features/inquiries/lib/period-filter.ts",
+      "hash": "547f876a45cac84b30053a72f466de047742e9c5c7ea230bcbde04f3a0a55537"
+    },
+    {
+      "path": "features/cases/components/CaseTypesPanel.tsx",
+      "hash": "3cb8992bd56c551a1903c282a89231c1ae5c735e91ccf6fdd73df4c6f215b9ea"
+    },
+    {
+      "path": "features/cases/components/CategoriesPanel.tsx",
+      "hash": "69ec8573887c1504bd04427c38e6e7d5f40d13102c891431b6f018bbd2d22823"
+    },
+    {
+      "path": "features/cases/pages/cases.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/workspace/local-mirror/journal-client.ts",
+      "hash": "4e061a9cf6a40864a60e0a8c6da7e07b1d0dac1865e2de025d4c375d1cde101e"
+    },
+    {
+      "path": "shared/components/whatsapp/ChatPanel.tsx",
+      "hash": "e0b10f5f1a34c0131dfd2d469394ba0de961c7bb04fcaae767e6a982e0954006"
+    },
+    {
+      "path": "features/whatsapp/components/ContactDetailsPanel.tsx",
+      "hash": "5369cd8ac7bf511c3a8ecb7027947b78012ca97a92fab3fb2bd2d4ad51d1083c"
+    },
+    {
+      "path": "shared/components/whatsapp/TemplatePicker.tsx",
+      "hash": "6a11aa467d0c36a001d763cdf958e49867197d53a6e7d23b8d1e4f691402db55"
+    },
+    {
+      "path": "features/whatsapp/hooks/useConversation.ts",
+      "hash": "0e4ed57c565fd5a5fa2e10a551962e392e2617aa0356c97cadcf541331a4a4a3"
+    },
+    {
+      "path": "features/whatsapp/hooks/usePresence.ts",
+      "hash": "af080874c209f85949e18287a2cb046135515b387bd97ee1fa2bd43cdc3e8d8a"
+    },
+    {
+      "path": "features/whatsapp/hooks/useConversationList.ts",
+      "hash": "d4b4adad7a87899f205529032cf1779df8ae2da2b136af550c405275bce73669"
+    },
+    {
+      "path": "features/whatsapp/components/ConversationList.tsx",
+      "hash": "ebb218a0a2311f60ae289e7e3a3b294e7bd8200ab19d3bdda2745018fe2110ff"
+    },
+    {
+      "path": "shared/components/whatsapp/phone-display.ts",
+      "hash": "6b72994a05071f091cc7b5db0f7b2868a924cc4b581d447ec3f28dcd34067568"
+    },
+    {
+      "path": "features/whatsapp/pages/WhatsAppModule.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/hooks/useEvalWorkbench.ts",
+      "hash": "2eaeb6820f50f38e2939449b3b9b8ff9e2f5e5845d8e16ba633bcb7875953719"
+    },
+    {
+      "path": "features/ai/components/TestBeforeActivate.tsx",
+      "hash": "55d6f82288ae6ba3bffca4e2da29363041f9f0787a668be29da6d16da9e437ca"
+    },
+    {
+      "path": "features/ai/components/EvalRunHistoryTable.tsx",
+      "hash": "71f4baa632e79715458ccbd35ebac0c430e0b2dc7f7e0040d2769f05b4ec608b"
+    },
+    {
+      "path": "features/ai/pages/eval-workbench.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/hooks/useLessonsDigest.ts",
+      "hash": "cc0e01c9cfc851d411643d7f86474b234e0948fec152d7146a10abb62024d3ea"
+    },
+    {
+      "path": "features/ai/components/CorrectionExamples.tsx",
+      "hash": "77ab5a362ac2239c64aa4acdf84c23808102c62c7f662bd79030ec4555d47c17"
+    },
+    {
+      "path": "features/ai/pages/lessons-digest.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/components/AdviserSettingsDialog.tsx",
+      "hash": "1543b0aba24a41b068f6e7c49605ce4abe03bf7f009ab284e4909d8cf396955b"
+    },
+    {
+      "path": "features/advisers/components/CommissionQueue.tsx",
+      "hash": "c780b695afc00bbead43fb5ea96876c3676fbd6f3e4bf6119ea3f567c8bb3094"
+    },
+    {
+      "path": "features/advisers/components/SignupRequestsPanel.tsx",
+      "hash": "30a535533b454d7933e165f7d271b044e2230836dfa39e70478ebe648fe06122"
+    },
+    {
+      "path": "features/advisers/components/ProfileChangeRequestsPanel.tsx",
+      "hash": "2a58e781f84276d295fcd7a053a34432fa9bae19ef267df2916bef8c58cd8356"
+    },
+    {
+      "path": "features/users/components/CheckboxGroup.tsx",
+      "hash": "1bd31cb197ccb7b5826f5b7c6ecffb38723b02fe021277b4085ea4e94b7615dc"
+    },
+    {
+      "path": "features/users/pages/users.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/people/hooks/usePersonDetail.ts",
+      "hash": "95b55c7325902ae727ba08f4782e41dd8e990ba540509c9f52a94229b2cd4658"
+    },
+    {
+      "path": "features/people/components/PersonEditDialog.tsx",
+      "hash": "504133a040b2a0fb07d947e4d87356765d90ad40f53b056df1538e992381c403"
+    },
+    {
+      "path": "features/people/components/PersonBriefPanel.tsx",
+      "hash": "735c2aee1066d2082940ae3c3dcc11a09b453caaa42aa192679fd03c683dad87"
+    },
+    {
+      "path": "features/people/components/PersonTimelinePanel.tsx",
+      "hash": "26deb8c5fb4d22e9cad2130180ea155535f4fc2b78533f4cbbabc47fab993e44"
+    },
+    {
+      "path": "features/people/components/PersonVoiceMessageButton.tsx",
+      "hash": "b7cf728f4f13126bc6bb62b20b60401d4d2af33520476c10c2053a0c6fec03ca"
+    },
+    {
+      "path": "shared/components/documents/DocumentsPanel.tsx",
+      "hash": "815e7d69a99e494c38216faf294224921954de0407e4d5468888f1eaaa7fd449"
+    },
+    {
+      "path": "shared/components/CreateCaseForm.tsx",
+      "hash": "76ea41c4d1f8464e5bad502335fcedeba83d93787fcfb0467917200903b62cd9"
+    },
+    {
+      "path": "features/people/lib/format.ts",
+      "hash": "5faa3779eadcbb8a56132fe5d848d13d8f7d892fa2b72b086504d7e4218fc2de"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalNotificationBell.tsx",
+      "hash": "9b5733d725ec7ac6737acbf069159e18c790d723519c66ec74c3584784727f4c"
+    },
+    {
+      "path": "features/advisers/portal/components/portal.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/compose/compose-center.ts",
+      "hash": "90da0ac664aeb4f88750b9ba2658c8585b1c5a8eb99aa07ce33b3c26c25d9fdc"
+    },
+    {
+      "path": "shared/components/SubscriberBadge.tsx",
+      "hash": "6e0e86c6a661850a3f1a8e978faf28a64547f0a3b76e298eba91ab2ef8c22569"
+    },
+    {
+      "path": "features/people/lib/labels.ts",
+      "hash": "4472056a856ca8fbb043ae614522d713dccd45206fa5b5b7e140b305fb834e29"
+    },
+    {
+      "path": "features/people/hooks/usePeopleList.ts",
+      "hash": "b5766edc683839abb9a72852ac319bae1b494f31a895c4cb5ca57ca7769a8691"
+    },
+    {
+      "path": "features/people/hooks/useContactsSync.ts",
+      "hash": "de0e70cab03b7fd4ed5375ae11769de29aa0b528914e6602106d69e52dd968ea"
+    },
+    {
+      "path": "shared/components/CreatePersonForm.tsx",
+      "hash": "cd25a34d819fc1e60937725071cff8abe09803b7ae293d02b486327034ed1bbc"
+    },
+    {
+      "path": "features/people/components/LabelChip.tsx",
+      "hash": "9321c8badee414b06c5aea681bf628fa0472ea47f5d4fb46e25e444c061de487"
+    },
+    {
+      "path": "features/people/components/LabelPicker.tsx",
+      "hash": "1d44d9039ed9610d25732c375b35dfeff4618d07c7656914162e9bb5caf39b0f"
+    },
+    {
+      "path": "features/people/components/ManageLabelsDialog.tsx",
+      "hash": "b90271b4f4e733280d0d0eb501ddbf4263a5785006a424fee3b920b2985e48a9"
+    },
+    {
+      "path": "features/people/components/NameCallerPopover.tsx",
+      "hash": "c515f04d2ef3bd5d0b21ea7ea7b65e5025ca577b54f312795278cf7c7e947c01"
+    },
+    {
+      "path": "shared/virtual-list/VirtualTableBody.tsx",
+      "hash": "42d8d949353676745dd0226ca5fe45c7f4f71c9df1234612a72f5976f100b0b4"
+    },
+    {
+      "path": "features/people/pages/people.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/LazyDialogBoundary.tsx",
+      "hash": "356110794574215d7574728b48723cb50798b8e14661ab006d82ba576c0450a9"
+    },
+    {
+      "path": "features/ai/components/CampaignEntryForm.tsx",
+      "hash": "69eb436d7e212feb7f4c4aee24897601e34eac0e500c4ee9792237bf8b1952ac"
+    },
+    {
+      "path": "features/ai/hooks/useCampaigns.ts",
+      "hash": "63ef19ea4b65eb155d2f9cfdb96cbe05554006f7455d2a2657b2f742c675a452"
+    },
+    {
+      "path": "features/ai/components/VersionDiff.tsx",
+      "hash": "14cc0ac2974b715564b6195d5529e129c98f84bb682d706dbcecebf8eb280e2c"
+    },
+    {
+      "path": "features/purchases/pages/purchases.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/api/portal.ts",
+      "hash": "13c032fb4df9c0bf76b2cf8e6d9beb848c1602b361b026c7607f029e14a806a1"
+    },
+    {
+      "path": "features/audit/pages/audit.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/backups/pages/backups.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/components/CompanyFormDialog.tsx",
+      "hash": "e583b9a5b52b83c83322315cbc8ed5d766051669406d355b865c1ccb441cc6a8"
+    },
+    {
+      "path": "features/campaigns/pages/companies.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/hooks/useAiQuality.ts",
+      "hash": "1ec7818a4aeef4352a5dffb8850fb37d5e1618d8b7ce5e59c6d4eb736fa690f0"
+    },
+    {
+      "path": "features/ai/components/AiUsageStrip.tsx",
+      "hash": "ba1e81ac4b1118f6fa71439f19aaf4250aee467f1e39651c1d2ca45330ef852c"
+    },
+    {
+      "path": "features/ai/components/CalibrationChart.tsx",
+      "hash": "df2fb2137595f3c6830ad43ef385d79ba5c3c71014311ed3909fee3a102a0ed4"
+    },
+    {
+      "path": "features/ai/pages/ai-quality.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/roles/components/PermissionMatrixEditor.tsx",
+      "hash": "859a53dc7c642b4b82824c5fe7cac3865f22b103035382df48561e59129a2d66"
+    },
+    {
+      "path": "features/advisers/portal/lib/cases-list-snapshot.ts",
+      "hash": "4c38930e8e38101958454ae3b442f81d1b71a211b82f1eedfe09f05da4020da3"
+    },
+    {
+      "path": "features/advisers/portal/lib/notifications.ts",
+      "hash": "af341e15463b4995fd8848e5285939a29636bbecd877e6e33f941aa9354b6175"
+    },
+    {
+      "path": "features/advisers/portal/lib/case-search.ts",
+      "hash": "b9c712e0a5705b6a34c0c4fe34e8a2e0baee08c33d8f42a3726036be7b53d867"
+    },
+    {
+      "path": "features/campaigns/components/CompanyLogoEditor.tsx",
+      "hash": "881d59b0334571944f9b19d3fa36df4346f614728d4af55c3315245b3e3787f5"
+    },
+    {
+      "path": "features/ai/components/ModelRouteTable.tsx",
+      "hash": "5270e80e58e01bc0e0ee62951c775f95f6b26621860f8e7c7b1d088b658ed9e0"
+    },
+    {
+      "path": "features/ai/components/CostGuardrails.tsx",
+      "hash": "e58dcb02ee944333d403519fccf24620d25cdcd8ba9b242d063fe70b7a2c0bf4"
+    },
+    {
+      "path": "features/ai/components/CostBreakdown.tsx",
+      "hash": "b2e2be40f48dfd1b47d04e301fe6d13b69f67b378aa00a976a659391aa96a69d"
+    },
+    {
+      "path": "features/ai/components/TriageDefaultWindow.tsx",
+      "hash": "c8565d16ff41eb5ce38a9c94d9114221bebdaf698a08b935b5dc56dedf3efc5d"
+    },
+    {
+      "path": "features/ai/components/GroupingLimits.tsx",
+      "hash": "aed02254f8f10d8c52fa74a4d8b892165a8247bcae394959429fb23aa5198404"
+    },
+    {
+      "path": "features/ai/components/TranscriptionModeToggle.tsx",
+      "hash": "4051eef46ef0f6e795aeab8aa67130dedad077adc48d881f2e8f64984e8de8ba"
+    },
+    {
+      "path": "features/ai/components/TranscriptionModelCard.tsx",
+      "hash": "1b6879d8adf4c849cce47dbb5b1b83a263af748b81602386fc8fc8b2ae6c4b01"
+    },
+    {
+      "path": "features/ai/components/CallAutoSummarizeToggle.tsx",
+      "hash": "f3a2d9ac8da88221f0303efb2f15e2675a597b1c09c99db2b982378630be4174"
+    },
+    {
+      "path": "features/ai/components/PendingApprovals.tsx",
+      "hash": "6e7dd4561a1d6966774c97e73c66f6769d9a6c40aa96168a7b727201f3baf5cd"
+    },
+    {
+      "path": "features/ai/hooks/useAiSettings.ts",
+      "hash": "5fd451b3e9bed65e2b5bae8912b60a511b5ca24748e1e12824f74d20924f7f5d"
+    },
+    {
+      "path": "features/ai/pages/ai-settings.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/attachments/FileCard.tsx",
+      "hash": "51e393361dfb6793d0e514c8037d402c71234ede83bf8acc00e617b54c830958"
+    },
+    {
+      "path": "shared/components/attachments/FileCardGroup.tsx",
+      "hash": "4549f927ee19099fb76b54d5d22be2dae758c19438ffe6b8c5c77ebf4104b593"
+    },
+    {
+      "path": "shared/components/documents/FilePreviewOverlay.tsx",
+      "hash": "3a6e268e7242925a511003dfe805d652292d5d7bc08766baf7bf2e6ad99740ca"
+    },
+    {
+      "path": "features/advisers/portal/components/CaseStateCard.tsx",
+      "hash": "c9cfa079fd2feb62907d3960e7be63a50c5eb4b65bcff7d7f8e9babc344fea33"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalCaseTimeline.tsx",
+      "hash": "29086b5027aa5aeca244a4ff96b076fa4a2620ccae1ed6fba22fcb6f51224e0a"
+    },
+    {
+      "path": "shared/components/documents/file-preview.ts",
+      "hash": "defcd6ff2321533056ec21186c0782802062b4f09644958e23fe59fa106f1139"
+    },
+    {
+      "path": "features/advisers/portal/lib/transitions.ts",
+      "hash": "bc816b357b54c8229ff6d05b69a89c787381295a0230c10f54d33ca53399d708"
+    },
+    {
+      "path": "features/search/hooks/useSearchQuery.ts",
+      "hash": "23dab4e01b8d0a936ae36a9f6ee7fd01b3e7828c4bff2b687bafde60b576690d"
+    },
+    {
+      "path": "features/search/components/ResultRowEmail.tsx",
+      "hash": "53a490f0a7b75cf08fd951a9f90c9e85f76521f3872bb70595a466574919f7f7"
+    },
+    {
+      "path": "features/search/components/InquiryCard.tsx",
+      "hash": "b3594b1346bf90681c8e5cf09a8bf516e35589599c69919b5cfed48b7da86279"
+    },
+    {
+      "path": "features/search/components/ResultRowPerson.tsx",
+      "hash": "89efd2e5a7ffbc77266933a6e17f4b44bc494b99b36631f59f31f9131af7b79c"
+    },
+    {
+      "path": "features/search/components/ResultRowWhatsApp.tsx",
+      "hash": "b3ee87eaf98a37e7cc624564f8031b0b460a61a32bffb5163c5c2eb746c6c1e4"
+    },
+    {
+      "path": "features/search/components/ResultRowCase.tsx",
+      "hash": "1b83dfbaf28a4d9e55b60214260350f73fb710074f99aae5615879593c06d7cc"
+    },
+    {
+      "path": "features/search/components/ResultRowAdviser.tsx",
+      "hash": "2a2c5b245491c202b9150be29a40002d7bb1740854300531bdb6d152f702aa70"
+    },
+    {
+      "path": "features/search/components/ResultRowCampaign.tsx",
+      "hash": "2ed1c0be7e7fdce1e849a13903148ead7b7e2ff68b5877276afd83fcf6beee37"
+    },
+    {
+      "path": "features/search/components/ResultRowVoiceMessage.tsx",
+      "hash": "1791b0d83da78815e90d1878b2d6d531f85eda0e9b2fe3e14825b7162ccafeb7"
+    },
+    {
+      "path": "features/search/components/FilterChips.tsx",
+      "hash": "84d163df6838528cb6d4243a37d89aaa5b5d3244962e307d6be9174f930ca7ad"
+    },
+    {
+      "path": "features/search/components/PhoneVoiceMessageButton.tsx",
+      "hash": "23b4df328fcd98280bc977addd0ccf90c9dd41d745e060e0a036b567df8ac63d"
+    },
+    {
+      "path": "features/search/lib/phone-query.ts",
+      "hash": "af1329fa435920d6ee7153e284b3695a46a1e84b55616f63ddc64affff25bf2e"
+    },
+    {
+      "path": "features/search/pages/search.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/notifications/hooks/useNotifications.ts",
+      "hash": "5334b15b398fa2bfe4eefe2f4d50af76d27b04f5f0d7969337de42cb32e379bd"
+    },
+    {
+      "path": "features/notifications/components/NotificationRow.tsx",
+      "hash": "ceb62a66fa734c237d2bc0d82aa11cd021ec7e0c3341dbf891b0795c54c92e5f"
+    },
+    {
+      "path": "features/purchases/api/upload.ts",
+      "hash": "f40bce9bb65344ffcef626107b10589c68980604092939fdd6fc7b8d2b437cac"
+    },
+    {
+      "path": "features/purchases/components/WizardSteps.tsx",
+      "hash": "e4273fda16939ac0378ce2edac467b63bb46b4c3f72f0907a08e127fce8fbfea"
+    },
+    {
+      "path": "features/purchases/components/ColumnMappingStep.tsx",
+      "hash": "e01667e687b6399b57c950a09da5e3f1da495e73a3d3b92495e6c13d87ab4805"
+    },
+    {
+      "path": "features/purchases/components/ImportPreviewStep.tsx",
+      "hash": "43ae9302b52cfd86cc90d6b813257c0adbd6b4d15ac028f115df524282a2b3e0"
+    },
+    {
+      "path": "features/purchases/pages/import-wizard.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/diagnostics/lib/self-test.ts",
+      "hash": "ca9772c70e51cab6388e985cffd4e088024cd94ff75380ee97d53907b1486ab7"
+    },
+    {
+      "path": "features/diagnostics/pages/diagnostics.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/styles/kpi.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/components/CurationQueueTable.tsx",
+      "hash": "61a93dad3beee5c84e02c4faf7a8c03df27e2fe10e3209eb98b67cb1b6e1cbd2"
+    },
+    {
+      "path": "features/ai/components/ExampleBrowserList.tsx",
+      "hash": "dbe602ab144e7b1b94239d2c3ac17374459a5494135d5cb638df733f3af83f01"
+    },
+    {
+      "path": "features/ai/hooks/useCurationQueue.ts",
+      "hash": "7c67a5901bba14dfd43915bfd0161129c897f0bd88ab075f8770e616c37cbf3a"
+    },
+    {
+      "path": "features/ai/pages/example-library.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/money/money-feed.ts",
+      "hash": "7f05ebf9be7ba145c2f765ec5d31c3bd0f1e0a24c44b16a44fd0613f9e5674da"
+    },
+    {
+      "path": "shared/components/SignaturePicker.tsx",
+      "hash": "f8da62a2008ba18a26adba250f462935725a4b2471c8fcdfadcec07e5a3826a7"
+    },
+    {
+      "path": "shared/components/TwoFactorSetup.tsx",
+      "hash": "454330d8a82e5cb7950349d493b6aad7c49611c59743b7c921d2a13393059617"
+    },
+    {
+      "path": "features/profile/components/SessionsList.tsx",
+      "hash": "766992f6b4f9b4e9488c0bfea1fb007f21f088c62c17a1baa0ff04e50d3dca9f"
+    },
+    {
+      "path": "shared/components/signature-picker.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/integrations/lib/providers.ts",
+      "hash": "2134c8caffc3400e3c3808ece1509a852c89cd67fdd30b37c25595687f3b5973"
+    },
+    {
+      "path": "features/integrations/hooks/useBackfillStatus.ts",
+      "hash": "9847c876b5e369ceaaa3314d8829c6a3ceda54f76682ed48cd936e6efce6edf1"
+    },
+    {
+      "path": "features/integrations/components/IntegrationCard.tsx",
+      "hash": "92be8137363b4286fa77928ae3f92fb083bbb7e767f28f8cb0bc8d2960efe0b8"
+    },
+    {
+      "path": "features/integrations/components/EmailReattachCard.tsx",
+      "hash": "24f67c0b54e316a6eb9a2ee1b3d6a37fcfe9785928b1a9caba0645092fb8a69f"
+    },
+    {
+      "path": "features/integrations/components/CallBackfillCard.tsx",
+      "hash": "caef07f05d94ba803c9b5e0cd894e4cf331fceb64c983927e541255211742e01"
+    },
+    {
+      "path": "features/integrations/components/GmailSyncCard.tsx",
+      "hash": "cb5968f3ee8561f23e35cdc5727751c2464ccbe3ba93265e6732bab36bae4898"
+    },
+    {
+      "path": "features/integrations/components/YedaphoneEnrichCard.tsx",
+      "hash": "5ec3621dc8a6b06fd148243901d4e6172fc7d1c14361dee872e304d30646eccd"
+    },
+    {
+      "path": "features/integrations/components/VoiceCallerIdCard.tsx",
+      "hash": "fc87f473f25539491334c9f74b2b6625dd83a638293e277c3602a6ec91b7275e"
+    },
+    {
+      "path": "features/integrations/components/CallReattachCard.tsx",
+      "hash": "345eabfa6b01f9715769130750505566f2ecdf4683105cb66ad3bbd907f5a8fb"
+    },
+    {
+      "path": "features/integrations/components/SearchBackfillCard.tsx",
+      "hash": "53126da957d42fa5472beaf6282ad99d2bc9c223d365f398f8d2dbef4edbbe65"
+    },
+    {
+      "path": "features/integrations/components/GisBackfillCard.tsx",
+      "hash": "9f61736438a69607cc8e0f0dece22f12bb8920f56434fb9d3e22d9d82285772a"
+    },
+    {
+      "path": "features/integrations/components/GisEmailSweepCard.tsx",
+      "hash": "1528c1e3014acbfaf05099b4f74276bebe1516ecad611651f26199b2d0f6f091"
+    },
+    {
+      "path": "features/integrations/components/NedarimConnectionCard.tsx",
+      "hash": "d1820da234d60a1aa3e51adca48491ad59cbb4943ec5812fb7ea6d5d2f66675c"
+    },
+    {
+      "path": "features/integrations/components/NedarimBackfillCard.tsx",
+      "hash": "cb846adfd80d01df104c01ec73afeb6012dda5e3ed923bc3a419bc00e390401e"
+    },
+    {
+      "path": "features/integrations/pages/settings.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/CasesBulkBar.tsx",
+      "hash": "511306b2b0937cba5f39b88b19c0ffdda6db0fa83bcea781e18423deab101480"
+    },
+    {
+      "path": "features/cases/components/CasesQuickFilters.tsx",
+      "hash": "f590f9a7a4973c3941be85b42eaf44b1a4ec563a4b9a5e314cee0a553ec0cad0"
+    },
+    {
+      "path": "features/cases/components/CasesActiveFilters.tsx",
+      "hash": "be511e152b0f2b31f370c6ba05a88938dec9a0a77532f34622c57879840d18e9"
+    },
+    {
+      "path": "features/cases/components/CaseAdviserLastMessage.tsx",
+      "hash": "44a4267271eaa21141d283ad27630915f7d97a4537d00b2d66025e57d04a7fa5"
+    },
+    {
+      "path": "shared/voice-messages/voice-message-origin.ts",
+      "hash": "14531bdfb5afee55c61c269e55c4eae385ff60e090e5bb07fb9afb59214f77ab"
+    },
+    {
+      "path": "features/cases/hooks/useMarqueeSelection.ts",
+      "hash": "79c4d9187c0c57c6dd677ea1563261633f88adc850fcec1878e0ef7651aabe82"
+    },
+    {
+      "path": "features/cases/components/cases-bulk.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/purchases/components/UnmatchedImportRowsTab.tsx",
+      "hash": "3cf6002cccc7b1bb9d443118879626e0c8d526a156273543931e85aba8a5f778"
+    },
+    {
+      "path": "features/purchases/components/UnmatchedNedarimTab.tsx",
+      "hash": "8b86e6a12944afd2e717a6145fefd47bb7ea1840afd1e532e8c5f8958514ead7"
+    },
+    {
+      "path": "shell/components/global-composer-host.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "primitives/Button/Button.tsx",
+      "hash": "83213f06802bfa8a53ddc8f8536b026c800485e8fe29a3b39a31d5aae73bc6ec"
+    },
+    {
+      "path": "primitives/Badge/Badge.tsx",
+      "hash": "f98f102ac9084ff953f057be8f69c865f6b940d40bdc1a76238d9bf3998d8301"
+    },
+    {
+      "path": "primitives/Card/Card.tsx",
+      "hash": "3eebefc61283c222a24e4c626aa37d26d2924efddf1cac75bc6cae735fe1d26f"
+    },
+    {
+      "path": "primitives/NoteBubble/NoteBubble.tsx",
+      "hash": "63a4d6b6b79c80c95dd2df555a6a5a9d3a44cee1c601ae9856f1e24b8f61e782"
+    },
+    {
+      "path": "primitives/Chip/Chip.tsx",
+      "hash": "078f923a1e7ca002f9a79bae0754fcafd48710decc19f404299df92d9180a270"
+    },
+    {
+      "path": "primitives/DateTimeRangePicker/DateTimeRangePicker.tsx",
+      "hash": "a67e638341ba2e92c422a037e4474905e75f99b5874c995a99aa5ffcec88c93c"
+    },
+    {
+      "path": "primitives/Dialog/Dialog.tsx",
+      "hash": "1a2b3dfa972d0da1c40600ea58b01d1fbbe33be4a26b9c75f4d09937970bd4a6"
+    },
+    {
+      "path": "primitives/Field/Field.tsx",
+      "hash": "bfdba770c60335c6271e11166d843b9ceac42d4eae1e9e5632276eea315be565"
+    },
+    {
+      "path": "primitives/IconButton/IconButton.tsx",
+      "hash": "fae108d375cee59d4b4d9229a0954e1740634fff09a6fce9d67220f00bc8be7b"
+    },
+    {
+      "path": "primitives/PageHeader/PageHeader.tsx",
+      "hash": "02ef9dd43090c631ca900b350d4200fe7ad19e19c7639a9c52678af1df64e6a1"
+    },
+    {
+      "path": "primitives/Select/Select.tsx",
+      "hash": "649f294e06c6d6a2f234b332394d50622db3a29545cd77ff75c68173edf869d6"
+    },
+    {
+      "path": "primitives/Table/Table.tsx",
+      "hash": "a8dbd5f84370a2b629f07fd2022f9957a7af6c03dc7a96e10c5573faa890757e"
+    },
+    {
+      "path": "shell/Avatar/Avatar.tsx",
+      "hash": "491ff593c8dfa811044540a5f0007984bba20ca769bdab7c71a1caf2e9d7392a"
+    },
+    {
+      "path": "utils/avatar.ts",
+      "hash": "d77ffed86b1f419631d2f7f9005e5b77647e5e957f57be5146ed64c3228fc7de"
+    },
+    {
+      "path": "shell/Sidebar/Sidebar.tsx",
+      "hash": "ea44d63aaf7697ba838491b7edb4d51fa2930d15fdd358850661c8b04e29937d"
+    },
+    {
+      "path": "shell/TopBar/TopBar.tsx",
+      "hash": "cd9b70a0ace1a3e9af245e372cb167d4ffbc589218e9995f275826887f5b0a88"
+    },
+    {
+      "path": "interactive/EmptyState/EmptyState.tsx",
+      "hash": "0b4915c8542c6ec7d487f23b195e572f54cb2df975afece097985086d27ac1b9"
+    },
+    {
+      "path": "interactive/RefreshButton/RefreshButton.tsx",
+      "hash": "fe0f5fe88b4e43754aa331e799d5ee2911eb3fac798b49232b5bb22e168ad135"
+    },
+    {
+      "path": "interactive/Spinner/Spinner.tsx",
+      "hash": "2e6e6f503886c479ea03f28ee05d30f345599f27539003a66b31ac095f5060be"
+    },
+    {
+      "path": "shell/components/search-tab-strip.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "demo/adapter/procedures.ts",
+      "hash": "8822790d7709548643606c0bcf20ee7cc0ba1d63d8e17fff1b4d7aec9354f9dc"
+    },
+    {
+      "path": "shell/components/page-context-menu.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/api/queries.ts",
+      "hash": "4579b2595b12f3f3f75f345584852556629ef8f79a8a22259d10fed863aa6b92"
+    },
+    {
+      "path": "features/inquiries/api/queries.ts",
+      "hash": "2046aec3735e53c7ebf5ca90784a89cc759ee7887c0337479d0b1fa85fc134ae"
+    },
+    {
+      "path": "features/people/api/queries.ts",
+      "hash": "4d0c0d0b7b95942988ed92723cdc3c4dc0ac2d2f80624bd641d38ee371c6f6db"
+    },
+    {
+      "path": "shell/components/fullscreen-toggle.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shell/components/system-loading.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/query/query-persister.ts",
+      "hash": "1178bf18021ce1ec298185104ad34b7cb54df6736253be1bf618c8c51503afdf"
+    },
+    {
+      "path": "shared/workspace/workspace-client.ts",
+      "hash": "12b9910faafc12fd9d7aff1c9da8a0890177f0bf114485a610ef845ac1218dbc"
+    },
+    {
+      "path": "features/search/hooks/useSuggestions.ts",
+      "hash": "9ad9225eaef641881de79d27695cc812747f168d908ae6710fa1cfae010436ff"
+    },
+    {
+      "path": "features/search/components/SuggestionsDropdown.tsx",
+      "hash": "12e5dd0229e04eb7b5349dcafef77023955bc5a81a18327de4ec3cda2ac56533"
+    },
+    {
+      "path": "shell/components/duplicate-page-action.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/EmailSendDialog.tsx",
+      "hash": "fcc5d70e435a42d6c45df9c445dba7aeb4669bc93bb08f0cd7fcc33aacff9f26"
+    },
+    {
+      "path": "shared/components/DriveSendDialog.tsx",
+      "hash": "38ce08f8139d0049ebaa74ac383f704c253d8eb003b6b8a8f4f7738475d45ec0"
+    },
+    {
+      "path": "features/search/components/SearchEmailModal.tsx",
+      "hash": "f0d568acd31ff0acca131268adb275a416b00d522d5c5cb238359072bbca756b"
+    },
+    {
+      "path": "features/search/components/SearchDriveModal.tsx",
+      "hash": "22e439f73b029349a3a30aac68babbe8074937500f9cd66d4e47c172f8f2c848"
+    },
+    {
+      "path": "shared/workspace/send-drafts.ts",
+      "hash": "13c72e5c4defa3bdb31a1858e42b84e5cb72f4045fcd907cd9ecac8d9d268dcf"
+    },
+    {
+      "path": "shared/audio/notification-sound.ts",
+      "hash": "51977c91fab469ef6794b03cdf2fd25e31bd6ba4ba3ab86a6a902e6c52b9e41b"
+    },
+    {
+      "path": "shared/components/CallDetailCard.tsx",
+      "hash": "4c1ba4520fa7bff7a2edca5a3d836363f0ecc6031d1a9793e1b8d9e03f063a3d"
+    },
+    {
+      "path": "features/login/hooks/useLoginFlow.ts",
+      "hash": "1f831721dfd4d786ee563b5d30755a480055693559ecde31349f38b27b1b6a2b"
+    },
+    {
+      "path": "features/login/components/login.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/ResolutionForm.tsx",
+      "hash": "ff9bdbc07ac3dddd7d91bdb2d79767c620ec4292e9030cb3d8e726c312847615"
+    },
+    {
+      "path": "features/cases/components/case-detail-panels.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/case-timeline.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/cases-filters.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/case-attach.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/components/LogoSearchDialog.tsx",
+      "hash": "19684abcf8453974bc9c77879ec8b8fd38e8ac8012ea7bca0003054cbe4cf1e9"
+    },
+    {
+      "path": "shared/components/voice-reply/VoiceMessageDialog.tsx",
+      "hash": "8dc0ecf22d8d82754886c6a3856d4ad78b0287e8eca4e951151f8750592ea767"
+    },
+    {
+      "path": "shared/components/InlineAudioPlayer.tsx",
+      "hash": "6000a176e9e23f87c00f24c6dcffd888de3205cc331d3ff8df6ebf557afca39e"
+    },
+    {
+      "path": "shared/components/TranscribeCallButton.tsx",
+      "hash": "76da9774a7cb726a7a78228f69ef03da300f414ca0efc140c388c97a6c6cb375"
+    },
+    {
+      "path": "shared/audio/resolve-gis-recording-url.ts",
+      "hash": "e44156ee085aec6f3328a9b1729b9c9c85242ecd77a855354d940cbf4754b177"
+    },
+    {
+      "path": "features/gis-inquiries/components/TranscriptPreview.tsx",
+      "hash": "31cb67ea53890e63822418f14d1aa33604cd6081466d165fe55ccacc11fd11ee"
+    },
+    {
+      "path": "features/integrations/hooks/useNedarimBackfillStatus.ts",
+      "hash": "41b4f5aa2f3b8bd59e4aee80b2b63a8054d5850d71e2624ffd092637084eaa7b"
+    },
+    {
+      "path": "features/integrations/hooks/useNedarimPayerResolveStatus.ts",
+      "hash": "c51459f6e41da553d4c1bac0814e651db43e9135d5089f828f4bc7f542d71f72"
+    },
+    {
+      "path": "shared/virtual-list/renderColumnCells.tsx",
+      "hash": "411ba7615a53905d8c5482752cde3c2cb44d3fb21dbefd9581ddffc659a38372"
+    },
+    {
+      "path": "shared/components/ai/draft-action-recommendation.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/gis-inquiries/hooks/useTopics.ts",
+      "hash": "7f1263c3d56b4b9ce3e5b5251f3a07bcb03e66cd578c93c3de05635411f9ac90"
+    },
+    {
+      "path": "features/gis-inquiries/hooks/useTopicRunStatus.ts",
+      "hash": "5f9a362886fa6d9014f36d485ec2229a46a16641ca0b97ab1875ac3c9ecb73e8"
+    },
+    {
+      "path": "features/gis-inquiries/lib/ungrouped-note.ts",
+      "hash": "f30216b1ec1e6a3c11eac31020ab91adc24106b7141455a6393db7c08225b742"
+    },
+    {
+      "path": "features/gis-inquiries/components/TopicCard.tsx",
+      "hash": "da0158c1f5d1a3b828aa663171cd79c9e4ff086d9ffb17f35f75770d1141b63b"
+    },
+    {
+      "path": "shared/ai/group-run-plan.ts",
+      "hash": "a3d09c604729e0230aa0ef1d95bb177332744b82fb0b47aea5150a2659ce52bd"
+    },
+    {
+      "path": "shared/components/tel-link.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/whatsapp/hooks/useWhatsAppSubscription.ts",
+      "hash": "60834691d57ee31de9d46728ecfbe1164b60b9b563a4597b86e139b52941dcda"
+    },
+    {
+      "path": "shared/components/attachments/file-type.ts",
+      "hash": "c31e80251c47fe00a12f4ea7d1da0952622ecea98942fe198a3991f194989b48"
+    },
+    {
+      "path": "shared/components/documents/useDocumentPreviews.ts",
+      "hash": "22ae0077b2927ee0f5b20e5b00823c1e216693541b9d1c1793ef9dc4435bc92d"
+    },
+    {
+      "path": "features/cases/components/AddFilesToCaseDialog.tsx",
+      "hash": "075c1302a953a774b664d022b6733f638d89c02669d27d6182b6efb50e846148"
+    },
+    {
+      "path": "features/cases/components/case-files.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/ai/ConfidenceBadge.tsx",
+      "hash": "153e5482a124dcaadda01f4f2e4ad0973639b933fbc277a0ed3d94b2b9f3cbad"
+    },
+    {
+      "path": "features/search/lib/format.ts",
+      "hash": "eb88931c781b7c7089c8aa6f20cb24e845314a8121a2413f91f49ec2eaa7758d"
+    },
+    {
+      "path": "features/people/components/MergeComposeDialog.tsx",
+      "hash": "497c4b6db91ed80c55307b0a99bfb0c234997f56c104bc32f21ea16cc0f994dd"
+    },
+    {
+      "path": "features/advisers/components/CommissionFields.tsx",
+      "hash": "087ee4247b0bc027754492e0977a18950eb79a53dc2dcccf77c295eab6b25320"
+    },
+    {
+      "path": "features/advisers/components/adviser-components.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/portal/hooks/usePortalNotifications.ts",
+      "hash": "869343a232ee90cdd565a3731caefa9efaa5ea5e2027552241200aa49f3d0309"
+    },
+    {
+      "path": "features/advisers/portal/lib/relative-time.ts",
+      "hash": "b6fd7902dafb17b1e0515548a1a68613de4e7b2c0f326cd8626c55596d1c6bfa"
+    },
+    {
+      "path": "features/whatsapp/components/ConversationRow.tsx",
+      "hash": "5f928e7686630cecd64d6b127f5f45f46ed4ae23bdb4c4a6d8e0cb8b9339f0dd"
+    },
+    {
+      "path": "features/cases/components/case-intake.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/polling/useVisiblePolling.ts",
+      "hash": "20bb61046e4e73fba0d7a87471e680a149836ed18f2bd344bd21596842c0e8a2"
+    },
+    {
+      "path": "features/cases/components/ReferralConversation.tsx",
+      "hash": "0a3e4ff9ed2b32b79d5a564d8b94e899f0d87918b2d8a77194f12328ffc3d706"
+    },
+    {
+      "path": "shared/components/PersonSearch.tsx",
+      "hash": "4e3ea33820d370c0d82b96863737c27e743d764027906719c899580805bb8da6"
+    },
+    {
+      "path": "shared/components/AttachVsNewPrompt.tsx",
+      "hash": "551fae88acb614a20423f68a449d2eed908c96d4e976c9770b2bda12256f76e4"
+    },
+    {
+      "path": "features/cases/components/refer-to-adviser.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/ai/ExampleSourceViewer.tsx",
+      "hash": "9d80abfe36a3ea97d2e63ea6217cbe0c3274f820a68d3ed3ce2b61b5643bb657"
+    },
+    {
+      "path": "shared/components/ai/ai-suggestion-card.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/email/EmlMessageView.tsx",
+      "hash": "20377f9040fe457ea5d2ebb6d67d9739d66fec05ecb471a179d58edc1875f1c8"
+    },
+    {
+      "path": "shared/components/documents/file-preview-overlay.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/ai/components/version-diff.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/people/components/MergePrompt.tsx",
+      "hash": "19fc3be0330258b543557536d15764fb819c98f1d50cb5537625065572413bcd"
+    },
+    {
+      "path": "features/people/components/ContactPointList.tsx",
+      "hash": "3ec799aa92bc1fd43d3dc2b0c73540a61df522001469bf3843df4eac39b68473"
+    },
+    {
+      "path": "features/people/components/contact-points.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/attachments/file-card.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/components/AudiencePreview.tsx",
+      "hash": "a0924aa6f859c4d8af6ace517bca858e3d933e3200059a416acbd27c98f8e9fa"
+    },
+    {
+      "path": "shared/styles/google-button.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/email/format.ts",
+      "hash": "bdf8c8fc090518b24d522642f1b29ccd6b6254c48a0ee34c714c9d04422b2c45"
+    },
+    {
+      "path": "shared/components/email/MessageDetails.tsx",
+      "hash": "7d599b51239281255aa527184e5fe4b3ec7c1c499532fc84be50f92f1c5a7f22"
+    },
+    {
+      "path": "shared/components/email/HandledMarks.tsx",
+      "hash": "906f6c827c15e1ae1e362050bf72ddd6c97f4c28ecdc1e7f6d278f4a4a09e150"
+    },
+    {
+      "path": "shared/components/email/MessageBody.tsx",
+      "hash": "84fe313184a91e5ee38518a076e585b16577aed53816673da33a2d9fc45f16cf"
+    },
+    {
+      "path": "shared/components/email/AttachmentCards.tsx",
+      "hash": "711acb6498924acbb055dd3f3a8ab7a5c5713bcce331098457bec6d282cecab8"
+    },
+    {
+      "path": "shared/components/ContactHoverCard.tsx",
+      "hash": "f6930e49eacbbb2a3391ff0545529e66f0979eb3ae3bea445ac91b6e8eff3543"
+    },
+    {
+      "path": "shared/components/email/message.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/components/emoji-picker.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/search/components/InquiryVoiceReplies.tsx",
+      "hash": "36eee9f124e5e7f5c6dc10dc0b83c989ffd5b3dd783f10ee51723ce7cb2b3246"
+    },
+    {
+      "path": "features/gis-inquiries/api/queries.ts",
+      "hash": "5dcfeb86e195aa6ef2887c12490c276327615e1e29b95fd0a04772540992080e"
+    },
+    {
+      "path": "features/inquiries/hooks/useTopics.ts",
+      "hash": "c42dc7b0b819afc7c58c8e3dd219e4ca3cde735321163c5edf6ef970e67efe2d"
+    },
+    {
+      "path": "shared/components/google-logos.tsx",
+      "hash": "167d9223332d698ec512f2253c17564cdfb873b79ed21597a462aa7e67424330"
+    },
+    {
+      "path": "shared/components/useDraggableFloat.ts",
+      "hash": "c1704e3df25db7bfd30a4a7e69f9dbe446a28fdbbc9f396a3c2855756dda9314"
+    },
+    {
+      "path": "shared/components/selection-bar.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/campaigns/lib/attach-selection.ts",
+      "hash": "ed5276129c84aca1597c4d1994a1245e858eae6deb35addb811d7baedc96209b"
+    },
+    {
+      "path": "features/campaigns/hooks/useAttachableCases.ts",
+      "hash": "6867fc1a9da6794e61acc17fd6ae06c32d4738eb9a428de9f8613c89dd3e88fe"
+    },
+    {
+      "path": "features/advisers/components/ReferralStatusBadge.tsx",
+      "hash": "b34561321ac25cb2952f02e08f50fe86df3a8821c91730cf95b4ba175ba78eb2"
+    },
+    {
+      "path": "shared/referrals/SendReminderDialog.tsx",
+      "hash": "c018a71047462662776420ed7b7c7a7ea642b69f08550ce6598b33169a4b8726"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalCallCard.tsx",
+      "hash": "6543203510a953f9597a197c525b1095caea9cb89d3f0865291e42b2b3f006b1"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalEmailThread.tsx",
+      "hash": "596eeca979b05acb7c53a72c2c4279ab3e2dfeddbd83fbe390cfadb13d932f2a"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalWhatsAppBurst.tsx",
+      "hash": "c3a7b7b020a9470d34c56ec861bbcefbef3eee52a18b92d6437298468f28b96e"
+    },
+    {
+      "path": "features/advisers/portal/components/portal-timeline.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/CreateCampaignFromCasesDialog.tsx",
+      "hash": "0db46205db794bc507f4f43fcf512a0bc7968169b87705b94380e1491e4e3eaf"
+    },
+    {
+      "path": "features/cases/components/CancelReferralDialog.tsx",
+      "hash": "4cd2dad16f9522fa24b6e3ae2904687c11004bc0406f9f2cd047a3f02c81eb54"
+    },
+    {
+      "path": "features/cases/components/BulkTrashCasesDialog.tsx",
+      "hash": "1b36988fc8eb1df91f39937903c96e70a42ab005767c69a6fa3369b5973e29fb"
+    },
+    {
+      "path": "features/cases/components/BulkSendUpdateDialog.tsx",
+      "hash": "87f3ebc20445f2f384bf88b0747ea8c283119d48c9ed183cf88b32328f227079"
+    },
+    {
+      "path": "features/people/lib/timeline.ts",
+      "hash": "87675c614e153cccdf5e6e4e08561c7541f959b98d5bec33f300b36e3746a875"
+    },
+    {
+      "path": "features/ai/lib/example-text.ts",
+      "hash": "62df504589ef3f6d034761282e28bcaa8b8a40947481ccbdc5df1f1bcba6acf7"
+    },
+    {
+      "path": "features/integrations/hooks/useGisBackfillStatus.ts",
+      "hash": "f3e3b99481b81fab252ff627fe3b72485ee72d14f78a594a0a74c8bd986470e6"
+    },
+    {
+      "path": "features/search/components/RecipientBadge.tsx",
+      "hash": "f7e26cde4975071a566b7c565c9b215052ee574a16083015f8ff4ac5240cc9a4"
+    },
+    {
+      "path": "features/campaigns/components/company-logo.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/integrations/hooks/useGisEmailSweepStatus.ts",
+      "hash": "6c5db9941cd1441add18d6a4f7e309b26c27145942692476551010d78900d03b"
+    },
+    {
+      "path": "features/email/lib/inbox-filters.ts",
+      "hash": "90b28032d69152fb49f0dc73abe17909ba91faf918501fe372401b8a9184d2f4"
+    },
+    {
+      "path": "features/email/lib/triage-window.ts",
+      "hash": "126376e38a9bb2a5744d47519060e2afac390d248a138b68e1bb6c767e176f44"
+    },
+    {
+      "path": "features/search/lib/results-cache.ts",
+      "hash": "5b744017e0cf6c892ffbe86963362da3298ed22234c4f9072f92c3c3eec25c57"
+    },
+    {
+      "path": "features/search/lib/search-mode.ts",
+      "hash": "ed5b50c55eae71ec196f702fc2a8fde3b4ab6d3dcfc80053b6d49b4f3eebb32a"
+    },
+    {
+      "path": "shared/components/person-scope-banner.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "demo/adapter/reports.ts",
+      "hash": "d5f8283c069cb7c040b9e22c772935a730ec93867d9d19df4b95450a246e89be"
+    },
+    {
+      "path": "demo/adapter/intelligence.ts",
+      "hash": "b787771ac03a0447ec459cd9a89a4b6f83aa9f3b7f2aa37768cf326de3474993"
+    },
+    {
+      "path": "shared/components/documents/DocumentInlineView.tsx",
+      "hash": "0e70e6bcbd01829ba42a05cf3acbc69e4e64b6cdd7c1a391c84d7d300f6e13be"
+    },
+    {
+      "path": "features/cases/components/TimelineEmailThread.tsx",
+      "hash": "5a17e676cc5820b32a1dd62e49e2a2a54bc0ea94b3c6f7097c1027e2e070e7c2"
+    },
+    {
+      "path": "features/cases/components/TimelineWhatsAppBurst.tsx",
+      "hash": "900465d40f7fe3bebf7769e081ffa2cb3b3d9960e962d564eb1e208964885b22"
+    },
+    {
+      "path": "features/cases/components/ShareStateControl.tsx",
+      "hash": "6123cb82fe819db3370e26ea5eb12ea8356344bf8886c549dfb3c81c34c5e71a"
+    },
+    {
+      "path": "shared/virtual-list/useVirtualizer.ts",
+      "hash": "74230aa0bde2d1f52b1da1464fa16e70be20f91fbe4b8c2198c6eb01439c1715"
+    },
+    {
+      "path": "shared/virtual-list/virtual-list.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/RecipientField.tsx",
+      "hash": "c40cf610b89fbb0574eb1c1ca04aab274941dfb3816f950c4ff961f3ba240d33"
+    },
+    {
+      "path": "shared/components/DriveFolderPicker.tsx",
+      "hash": "32bb7acaef3a3ae8778de2e5ca993b62784c54f3963531c979deeb11f8a7033d"
+    },
+    {
+      "path": "shared/components/MinimizedSendPill.tsx",
+      "hash": "8943716ea72e84032620d527c05d3383c519d595043769f3a132cdc1e838c679"
+    },
+    {
+      "path": "shared/send-center/send-receipt.ts",
+      "hash": "40d5920fe003cbf745c1728cf4511b6de1bf0e7174588692b8efd310d731cf18"
+    },
+    {
+      "path": "shared/components/send-dialogs.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/components/case-adviser-last-message.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/voice-reply/VoicePhonePicker.tsx",
+      "hash": "f32f7d5095337fef296035a79152ddb5a595fece98f6b13f56969f5a5a5c5f99"
+    },
+    {
+      "path": "shared/components/documents/DocumentPreview.tsx",
+      "hash": "39c0d07a4c9fa7639a70aa32fbb8f50a6837164d64676f6701cd14856f1752b2"
+    },
+    {
+      "path": "shared/components/whatsapp/WhatsAppAvatar.tsx",
+      "hash": "e3f88c83391f0defcba4bd29a15a9e881c255665cfda3a117acdfe8c06a6eb88"
+    },
+    {
+      "path": "features/whatsapp/components/ContactDetailsPanel.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/cases/types/case-detail.ts",
+      "hash": "beab702533ebdb2f2a0b2f7d2d518258b711e406c4c3dcbd92a089e8d9809926"
+    },
+    {
+      "path": "features/cases/components/CaseReminderButton.tsx",
+      "hash": "9f2d2f7097dec33ec15c985f29d5929cab4514529a9d056fcdb244b672581b4f"
+    },
+    {
+      "path": "features/cases/components/CaseVoiceMessageButton.tsx",
+      "hash": "1aef9498241fa7ab4d5e9f8412807ee25888cb42e158f02c18bff1b133dae9b8"
+    },
+    {
+      "path": "features/people/components/PersonWhatsAppChat.tsx",
+      "hash": "73d994e03a533c743d0510771dc80f8ab3711816caf4c238b12c5112efb092b2"
+    },
+    {
+      "path": "features/people/components/VoiceMessageTimelineRow.tsx",
+      "hash": "4a4bf6d97a431a107a86f5b335d256537fefd87f8467a9dbd748cfe4587aa7ab"
+    },
+    {
+      "path": "shared/components/money/PersonMoneyTab.tsx",
+      "hash": "461df6080ba1c2de5406083fa04c8f42529304453d8372bb372e9be499333293"
+    },
+    {
+      "path": "shared/components/money/use-person-money-feed.ts",
+      "hash": "679d759940835862ff5b2c3db6a2092bd6343c9519bb9412aed40558f48deb0c"
+    },
+    {
+      "path": "features/people/components/timeline-panel.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/PersonPickerDialog.tsx",
+      "hash": "6a3e5fb342f1148828a18f37d97f3e2aa5c2cbb8b08d4a575347cbef0cfb9322"
+    },
+    {
+      "path": "shared/components/whatsapp/AppleEmoji.tsx",
+      "hash": "4139a5fcdb467d30ce7240fffcf0cabe59c864135237bd11fd60063fa44b733d"
+    },
+    {
+      "path": "shared/components/whatsapp/MessageBubble.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/whatsapp/Composer.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/whatsapp/MessageBubble.tsx",
+      "hash": "d40bffa7b62bc70acf6276089e2924ada0c7dad5375cc0e766bb2a1811848f28"
+    },
+    {
+      "path": "shared/components/whatsapp/Composer.tsx",
+      "hash": "13337c7b30b91637d56885295aae4ee521ba09dbfe4fa047e72b70d40e27138c"
+    },
+    {
+      "path": "shared/components/whatsapp/TemplatePickerBar.tsx",
+      "hash": "73ad285980b15e9eb1436664484cb1a62ac7d1b4509ad74b50db88948c1fa95b"
+    },
+    {
+      "path": "shared/components/whatsapp/PresenceIndicator.tsx",
+      "hash": "90bf45cfd41cae54d8369545c72c399034af6a1e6218a94358d0711667839648"
+    },
+    {
+      "path": "shared/components/whatsapp/ChatPanel.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/hooks/useVoiceRecorder.ts",
+      "hash": "e6e01a08dc7017590bf3d89ad26382551410597f5a997f38865f5b1e3f19aa48"
+    },
+    {
+      "path": "shared/components/voice-reply/UploadRecordingButton.tsx",
+      "hash": "67ac9a99d89ae85f65d9229c896e11233d7167cf519ffeaaaaeda0907e4d0fa9"
+    },
+    {
+      "path": "features/search/components/suggestions-dropdown.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "catalog/common.ts",
+      "hash": "3d777d839563eb1a2ef69006a7722e0dfdf7d1f2dc20aaaeecf05da446cf3785"
+    },
+    {
+      "path": "catalog/auth.ts",
+      "hash": "ebba9ea581217df615345986bc7a31aabca8d0eb27ff71f59252bc1253f73883"
+    },
+    {
+      "path": "catalog/users.ts",
+      "hash": "c0b0d1f57f5f28aa0b342acc9855649ae04584d471be4964d0516a68fae1c786"
+    },
+    {
+      "path": "catalog/roles.ts",
+      "hash": "170a68a2ff8ea63ef1b101a86bc25d46f1d0af0ab6f3cd8cf9d1ea24168ad238"
+    },
+    {
+      "path": "catalog/integrations.ts",
+      "hash": "c182bd99baa145cfc60c109b01e52ff92d2a67ba221e80a97e1102d1a0cdc84b"
+    },
+    {
+      "path": "catalog/people.ts",
+      "hash": "2e5e43254524f0fc6822f7e3afc97d884e85cf5a0523bf2bc2b15ce46bd060a1"
+    },
+    {
+      "path": "catalog/email.ts",
+      "hash": "ac0c465c2c0c614877d7513a769a61f7f78a94ec45ff56f5edeed47365f5bc0b"
+    },
+    {
+      "path": "catalog/documents.ts",
+      "hash": "98db56115f22085740ab49ce9f0ac1f26557801cf53af6d91bda9733e4c4c59f"
+    },
+    {
+      "path": "catalog/calls.ts",
+      "hash": "62215aae093412d427d43be62637570c0924b4c5cf639ba593adde6cce08adf7"
+    },
+    {
+      "path": "catalog/ai.ts",
+      "hash": "e2ead3e7d18a32593e26ba717cef6b2ba32f7eb8368860c7a383786d7720ec12"
+    },
+    {
+      "path": "catalog/cases.ts",
+      "hash": "390d368ca20f2f1fd253ed41058d43eb6c06dd38ff783d30d982d48cb54d9578"
+    },
+    {
+      "path": "catalog/advisers.ts",
+      "hash": "081c2d467624a4b73f3c74746dd172ccfda05337785ecbe073f372f80bf0998c"
+    },
+    {
+      "path": "catalog/notifications.ts",
+      "hash": "cb4b3503cb6f490ff7d83765cf662cf218d4613a4a9f66a43c7eaa3c21c8195c"
+    },
+    {
+      "path": "catalog/campaigns.ts",
+      "hash": "064bfc37619e8841003364e48be4b67be06759cd5bb882a051bd3a20a6ca0a06"
+    },
+    {
+      "path": "catalog/purchases.ts",
+      "hash": "e8b12c06eb2991d05eaa8b28e9f52c532430b53e56b20e2d071e03c1cf1a00f6"
+    },
+    {
+      "path": "catalog/nedarim.ts",
+      "hash": "2c184ce015942095b52c725dae8ac72cdbbe9a8704a7cb205de3e97b982913c8"
+    },
+    {
+      "path": "catalog/search.ts",
+      "hash": "77656b859afe1a6a746c2397d327de15dd71b53ffd4261d2def8faa03964f1ac"
+    },
+    {
+      "path": "catalog/whatsapp.ts",
+      "hash": "90fe242a95d6355bf0fe34b64cc12ba9bb8bff878c22542b249870fc7dc9cd55"
+    },
+    {
+      "path": "shared/components/LazyDialogBoundary.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/components/TemplatePicker.tsx",
+      "hash": "c99518e338e46821a7764200b438369c52429e44427eadc2d1658eacfc08db0b"
+    },
+    {
+      "path": "features/email/components/ComposerChrome.tsx",
+      "hash": "8c6d6488412bde16e227022e779039105af97da1f785f15d2f2351cf0426ebf7"
+    },
+    {
+      "path": "features/email/components/MentionMenu.tsx",
+      "hash": "c4c8479faf5ecda18872f59c84e4be3a6a6049fa3a3ec87ef2879d45471eb6b4"
+    },
+    {
+      "path": "features/email/hooks/useMentionAutocomplete.ts",
+      "hash": "f45027f1b7c22d02948be45529535672cb8cadd36773cfd1e27fe0b06a9f59a5"
+    },
+    {
+      "path": "features/email/lib/text-to-html.ts",
+      "hash": "d054d1ce1d728ceaab7afaeae989eac46cb825167bcfe3b4e6ef85d8d7d5f494"
+    },
+    {
+      "path": "features/email/lib/forward-block.ts",
+      "hash": "39e33cc98dceb6ded6267e45b69d0c2b01a850f428e4556d356fe38014ee8e13"
+    },
+    {
+      "path": "features/email/lib/reply-subject.ts",
+      "hash": "af3453e1763a071cc29ea55d851e118812a687c5c809da557efb3e7c1c5120fa"
+    },
+    {
+      "path": "features/email/components/ReplyRecipientPicker.tsx",
+      "hash": "79d0e4aa8b1f00029fe24436fb3639237e009ff8461fc6db32b8c2600d5b70de"
+    },
+    {
+      "path": "features/email/api/compose-attachment.ts",
+      "hash": "bd58e15468e43c37825c6c9920b19a7c856370b96e7a93d16c0a7bcbe8667e97"
+    },
+    {
+      "path": "features/email/components/composer.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/inquiries/components/TranscriptPreview.tsx",
+      "hash": "15e199622f4931ce14d32a16de87fac4de7a191cbbaa47838709becd84b2e152"
+    },
+    {
+      "path": "features/inquiries/components/VoiceReplyDialog.tsx",
+      "hash": "ac29379aeb0781915b718487253639aa709d95ccfd779470f950c7e611d624ee"
+    },
+    {
+      "path": "features/inquiries/components/AssignTopicRowButton.tsx",
+      "hash": "dc98a680dfd0f575ead49e35cbe143e517c30a8ceee85d89a30a5b66778af645"
+    },
+    {
+      "path": "shared/components/documents/FolderBrowser.tsx",
+      "hash": "7fe1e7b06178a3c31c32bd70800421553c2796705dee008f22b954caa60855b6"
+    },
+    {
+      "path": "shared/components/documents/ShareModal.tsx",
+      "hash": "8d5b5fffde02f453f7449e0467a4fd45909a326b5add00f0571694a5b7ccd669"
+    },
+    {
+      "path": "shared/components/documents/UploadDropzone.tsx",
+      "hash": "c786077189508a1c8f7c9f760820611fdb5f15fe1c7cfa025e713e791e317450"
+    },
+    {
+      "path": "features/ai/components/campaign-entries.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/hooks/useDraftPipeline.ts",
+      "hash": "821d6b3fc4ab64c079360d20eaff4a9d19b0ab01818f45be09842b6003422858"
+    },
+    {
+      "path": "features/email/hooks/useTriageChips.ts",
+      "hash": "ee9df2358a4cb18c0b449c726ec472826ea663398e09f33472c7d4957c912536"
+    },
+    {
+      "path": "features/email/hooks/useSummaryBadges.ts",
+      "hash": "d31d93f4b7ba66a6428603eeede4898907d198df2f74c7d7a0fe24e4918dabc6"
+    },
+    {
+      "path": "features/email/components/InboxRow.tsx",
+      "hash": "4b9e0760dcca7dcda4c6b8e1c34806b01e8ab325dad0ecef06fb443a19dad63e"
+    },
+    {
+      "path": "features/email/components/TrashList.tsx",
+      "hash": "29cd6acb148d9e88c38c06d69f8bc16b80a47b16e97461fb584c9556439ee065"
+    },
+    {
+      "path": "features/email/components/DraftsList.tsx",
+      "hash": "6210b5c7e9390d301a645ab8c9ddd0eed1108afb9fc5faa57b4cb2fe2fd96fcf"
+    },
+    {
+      "path": "features/email/components/TriageWindowBar.tsx",
+      "hash": "a858ed99822c50bf55b88ba83f4cdf3aab744722d792236658acf90c67a3a26d"
+    },
+    {
+      "path": "features/email/components/DraftGenerationButton.tsx",
+      "hash": "4e750e5a8e8758da7dfaa75041ab0e20a02f6032cf0a691c20920410024c8eff"
+    },
+    {
+      "path": "features/email/components/inbox-list.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/inquiries/hooks/useTopicRunStatus.ts",
+      "hash": "996a4c3518112ce93401bc4014808519e92c0b035a3b7f4967596ba18a1c76c6"
+    },
+    {
+      "path": "features/inquiries/lib/ungrouped-note.ts",
+      "hash": "f30216b1ec1e6a3c11eac31020ab91adc24106b7141455a6393db7c08225b742"
+    },
+    {
+      "path": "features/inquiries/components/TopicCard.tsx",
+      "hash": "2126521cec16f01ad8669cab67e254d90efc2dac69fb191077480856e1eb58e8"
+    },
+    {
+      "path": "features/advisers/components/SurveyDetailsDialog.tsx",
+      "hash": "3dccb76b55296d60b72229e46144c4082fc8fee4de75dbeb788ce4cc8c0bf853"
+    },
+    {
+      "path": "features/advisers/lib/survey-format.ts",
+      "hash": "80f009230b0c4d2c39f8a0758d331bb3d23be813c8358b0f8eaf1b11eb6ade85"
+    },
+    {
+      "path": "shared/components/call-focus-dialog.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/people/lib/person-brief.ts",
+      "hash": "cc8f1f3afcf72120d7394958b0e9bc601ef488c567c70d5790f66a1cf975338b"
+    },
+    {
+      "path": "features/people/components/TranscribePersonCalls.tsx",
+      "hash": "66aaea128f7ff7ce8cc71cbd010eb72683e19ea8b17f2f4ff5e18d4a1260f596"
+    },
+    {
+      "path": "features/people/components/person-brief.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "primitives/NoteBubble/NoteBubble.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/ai/SummaryFeedback.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/voice-reply/VoiceReplyDialog.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/api/bulk-read.ts",
+      "hash": "064806fae1f5f9eabbcc8e60bba88e1a9f4797026b189c53c4475c2d3d6d9cf3"
+    },
+    {
+      "path": "features/login/api/auth.ts",
+      "hash": "bc58153e0ac66cfd714e786015069f2f5bd0dc3a964408a32874dca1214df164"
+    },
+    {
+      "path": "shared/components/transcribe-call-button.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/inline-audio-player.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/gis-inquiries/components/GoogleIcons.tsx",
+      "hash": "d8963c42b4ebd36cef0c37e662f82b71dd8040191da2742ff4ce40d98fd4ddc2"
+    },
+    {
+      "path": "shared/components/documents/documents-panel.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/ai/confidence.ts",
+      "hash": "6ec1fc10da6377512454945f8a710ab33cd496abeb019ee14a7b25f5a4c5890d"
+    },
+    {
+      "path": "shared/components/whatsapp/avatar-color.ts",
+      "hash": "53ca14945ab0c04ebb3134cce8a77baeee2eaa8fc0ce1ea8e6196733bad38694"
+    },
+    {
+      "path": "shared/components/whatsapp/WhatsAppAvatar.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/PersonSearch.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/email/attachment-cards.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/contact-hover-card.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/email/email-links.ts",
+      "hash": "ca58e72ab60da90915d0dbe31707345ea65eed269c331bdc8b92a15820a1377c"
+    },
+    {
+      "path": "shared/components/email/eml-message-view.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/money/MoneyFeedRowView.tsx",
+      "hash": "68ccf96b87c725d54f8281ed7e364da312f17a930a56371e4079a529babe24aa"
+    },
+    {
+      "path": "shared/components/money/money-panel.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/portal/components/TranscriptPreview.tsx",
+      "hash": "b7f08f0a4e4930acbed7d4cb6c564e923aa5f8eb906ff2a110b01779be0693fc"
+    },
+    {
+      "path": "features/people/hooks/usePersonWhatsApp.ts",
+      "hash": "6cb2d118de7e2a7352dcb65fba95d7e1dd1c31e954fecaed6976958621830f6b"
+    },
+    {
+      "path": "shared/virtual-list/range-math.ts",
+      "hash": "c4adf5960538d03db733203e371d21eb41c60f2dbbfcfbb2f0c34d9133047101"
+    },
+    {
+      "path": "shared/components/whatsapp/DeliveryTicks.tsx",
+      "hash": "ea0cda14ee5605d3e3a5f6205331f8947697c8890bb7f45427f80e0578d6a118"
+    },
+    {
+      "path": "shared/components/whatsapp/MessageInfoPopover.tsx",
+      "hash": "631b3dc6d0dc6ee248dfdb2af39ab835e4c2ee921427e93a24c7c604c2319a90"
+    },
+    {
+      "path": "shared/components/whatsapp/QuotedReply.tsx",
+      "hash": "feaaaf73e86ee021f6d1b0693fa0a21dfb3ee9a2294002c763b36287af68ed7a"
+    },
+    {
+      "path": "shared/components/whatsapp/VoiceNoteBubble.tsx",
+      "hash": "e094d1aaafbc649d177d1bc2b46ab5827294c46535cc7a06309f158c8c4ff912"
+    },
+    {
+      "path": "shared/components/whatsapp/EmojiPickerLazy.tsx",
+      "hash": "76ca86774fd9f0e3094c6f458e4d59049f99bcb33d502cc16d4b77357ecaee5f"
+    },
+    {
+      "path": "shared/components/whatsapp/AppleEmoji.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalExpandedMessage.tsx",
+      "hash": "823a5ad433804e31c3c86c42c0254ca789e53b6105ab79e131c653f0cd8e7aac"
+    },
+    {
+      "path": "features/advisers/portal/components/portal-message.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/recipient-field.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/whatsapp/draft-store.ts",
+      "hash": "3a8e7a26229df1421d7b05987b59c2074292cf787eaa8eb3cf9f48c018ae31b1"
+    },
+    {
+      "path": "features/cases/components/ReferralNoteComposer.tsx",
+      "hash": "f5780de9fd6696e9034e3841b8db24e43f4efa1d24bae79521a38ccab1b71447"
+    },
+    {
+      "path": "shared/components/email/message-history.ts",
+      "hash": "c49b69638129d8a6a4a5ab52472a3bddeacf21c4a7d4f0c0de5af4760007a0f7"
+    },
+    {
+      "path": "shared/cache/content-cache.ts",
+      "hash": "81926cf547b51ce1da55ddd8ad348b6a3220b11dbd52533a897040ec6281dd07"
+    },
+    {
+      "path": "features/cases/components/bulk-send-update.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/components/whatsapp/DraftSuggestion.tsx",
+      "hash": "55dacdbd5fa1ad35c74638fbc4662b93caa4870f3fa35d1c6f1f1ae0804c5aae"
+    },
+    {
+      "path": "shared/components/whatsapp/ContactPickerDialog.tsx",
+      "hash": "a38791fe08e98ea7ab7d9b28342f868f61c1f9d91ba9eec482247f5901ae37f5"
+    },
+    {
+      "path": "define-errors.ts",
+      "hash": "2c44b8c34d9663aa32c97a342df334574492dde37c105b5e5179f8f41ae9edc4"
+    },
+    {
+      "path": "features/email/components/reply-recipient-picker.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/lib/format.ts",
+      "hash": "8402891f9e25652f6559c80c89fc92ca10e46131cd9529e7f0424867ddce3f81"
+    },
+    {
+      "path": "features/email/components/drafts-list.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/components/draft-generation-button.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/lib/mention.ts",
+      "hash": "b6d22660f15f3fdad5dd9eaddc62ce91315b27d6c5207cd373ac670234803204"
+    },
+    {
+      "path": "features/email/components/triage-window-bar.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/components/TriageRowChips.tsx",
+      "hash": "3fe6a18ae356d1d681791d6455f1ee3a698bbaa68fbb80a7d18740e33dd69b8b"
+    },
+    {
+      "path": "features/email/components/inbox-row.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/people/components/transcribe-person-calls.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/email/hooks/useTrashList.ts",
+      "hash": "70adf428acc81e101624f669ac7cb112a799b6dd1e5f306c6580df4ed30b2303"
+    },
+    {
+      "path": "features/email/components/trash-list.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "features/inquiries/components/GoogleIcons.tsx",
+      "hash": "d8963c42b4ebd36cef0c37e662f82b71dd8040191da2742ff4ce40d98fd4ddc2"
+    },
+    {
+      "path": "index.ts",
+      "hash": "b9a399c0745322f34183af58f6df1bfbb520719b4df6484a3ead8ff20c4d38c0"
+    },
+    {
+      "path": "shared/components/whatsapp/emoji-picker-config.ts",
+      "hash": "a382f01637aceeb9b951ef2e0ccbcc12a025f16abf914018f86552ed4fcf9701"
+    },
+    {
+      "path": "features/advisers/portal/components/PortalAttachmentStrip.tsx",
+      "hash": "467abd6cee41d7ee549a1408d8fb9577636b0de1da1d86cda9bed81f65fa2796"
+    },
+    {
+      "path": "features/email/components/triage-row-chips.css",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

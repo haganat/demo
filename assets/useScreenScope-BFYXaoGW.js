@@ -1,0 +1,1 @@
+import{i as o}from"./main-Du8HBd6r.js";import{i as a}from"./page-instances-fObS-dpc.js";function i(t){const r=o({select:s=>s.location.searchStr}),e=new URLSearchParams(r).get("ws");return a(t,e&&/^[a-z0-9-]{1,32}$/.test(e)?e:null)}export{i as u};

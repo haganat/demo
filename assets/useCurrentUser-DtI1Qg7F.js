@@ -1,0 +1,1 @@
+import{u as e,q as r}from"./queryOptions-CzTyhaAO.js";import{a as t}from"./main-Du8HBd6r.js";const u=["me","get"],s=300*1e3;function n(){return r({queryKey:u,queryFn:()=>t.me.get.query(),staleTime:s})}function a(){return e(n())}export{n as c,a as u};

@@ -1,0 +1,1 @@
+import{a1 as o,u as e,j as r,C as n}from"./main-Du8HBd6r.js";import"./demo-Dc0Fw9ng.js";function l(){const{callId:s}=o({from:"/_authed/gisInquiries/$callId"}),a=e({from:"/gisInquiries/$callId"});return r.jsx(n,{callId:s,channel:"gisInquiries",onClose:()=>void a({to:"/gisInquiries",search:i=>i})})}export{l as CallFocusRoute};

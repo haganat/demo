@@ -1,0 +1,1 @@
+import{a1 as i,u as e,j as r,C as t}from"./main-Du8HBd6r.js";import"./demo-Dc0Fw9ng.js";function n(){const{callId:a}=i({from:"/_authed/inquiries/$callId"}),s=e({from:"/inquiries/$callId"});return r.jsx(t,{callId:a,onClose:()=>void s({to:"/inquiries",search:o=>o})})}export{n as CallFocusRoute};

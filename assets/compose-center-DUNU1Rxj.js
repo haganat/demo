@@ -1,0 +1,1 @@
+import{r}from"./main-Du8HBd6r.js";let n=null,s=1;const t=new Set;function o(){for(const e of t)e()}function u(e){return t.add(e),()=>t.delete(e)}function c(){return n}function l(e){n={...e,requestId:s++},o()}function f(){n=null,o()}function a(){return r.useSyncExternalStore(u,c)}export{f as c,l as o,a as u};

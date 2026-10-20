@@ -1,0 +1,1 @@
+import{p as i}from"./purify.es-D6gMnemd.js";const a=/^(https?:)?\/\//i;let e=!1;function n(){e||(e=!0,i.addHook("afterSanitizeAttributes",t=>{if(t.tagName!=="A")return;const r=t.getAttribute("href");!r||!a.test(r.trim())||(t.setAttribute("target","_blank"),t.setAttribute("rel","noopener noreferrer"))}))}export{n as i};
