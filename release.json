@@ -61,13 +61,13 @@
     },
     {
       "path": "licenses/Bootstrap-Icons-MIT.txt",
-      "bytes": 1114,
-      "sha256": "4917cd7b34a6c1623070857e6cb3e8a9dda39a641e4aeace1899494e5196d848"
+      "bytes": 1093,
+      "sha256": "0fb3e11bd57e896c5a512afd64864d28a37de45d19835016c87ca1ad19ead969"
     },
     {
       "path": "licenses/Heebo-OFL.txt",
-      "bytes": 4474,
-      "sha256": "866747cbccae229433e946b90fcfc457b81c33ac89e593855770851354f9e6c3"
+      "bytes": 4381,
+      "sha256": "30b4273e07751578fc7e0e01fd2fc2d46ea5bdf65fc7cc58da854dca541da8dd"
     },
     {
       "path": "licenses/React-DOM-MIT.txt",
