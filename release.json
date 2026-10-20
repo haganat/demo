@@ -1,0 +1,88 @@
+{
+  "title": "דמה",
+  "dataset": "synthetic",
+  "ai": "scenario-simulation",
+  "records": 52992,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/bootstrap-icons-DD5rlyQf.woff2",
+      "bytes": 15772,
+      "sha256": "c3a8dc33e704a2ee0ead03cd1e2feb5046be9ff9bdfb7306ded57c7b87ec8144"
+    },
+    {
+      "path": "assets/demo-C4HjL4Fg.css",
+      "bytes": 66962,
+      "sha256": "0b1884699af366b66ff75b119627e964d6e203257b81fe4e706d0945af7ec3e6"
+    },
+    {
+      "path": "assets/demo-XHyPRZfY.js",
+      "bytes": 216763,
+      "sha256": "d35ef7ec47f2ab8913e1aac325882659f197a280f19ac7aefddbdde904d7bd84"
+    },
+    {
+      "path": "assets/Heebo-Bold-DJxQF728.woff2",
+      "bytes": 26508,
+      "sha256": "aa9385635cbbcee6b5bc079bd54e2295a9b2204a0da8f381a62b15a893edee97"
+    },
+    {
+      "path": "assets/Heebo-Medium-Ci9BXwqL.woff2",
+      "bytes": 26432,
+      "sha256": "f04ff71528e991b2c99c11f6ef3617dcd1e84a7c3daf86b167de29c5a15fab39"
+    },
+    {
+      "path": "assets/Heebo-Regular-B01usdTE.woff2",
+      "bytes": 25824,
+      "sha256": "16618a2b102763394c85292131c001f0d7db02189bc6d5e24fc32aa3d0b585a7"
+    },
+    {
+      "path": "assets/Heebo-SemiBold-C0Xy8Tsw.woff2",
+      "bytes": 26484,
+      "sha256": "ba3205f5b448db1f1cd81172b26c51ced12d80fe29663525207b4d1855bb0d4d"
+    },
+    {
+      "path": "assets/logo_mark-DozgP9PR.png",
+      "bytes": 21450,
+      "sha256": "924204173837b3712d19bffbc149ed59fd47260b16ce266f15cc71c7c871a793"
+    },
+    {
+      "path": "assets/wallpaper-CxDfYo2q.jpg",
+      "bytes": 294562,
+      "sha256": "b97af081f39fc0c201dd2d2d6bc08381d9c67efaf8288b337e8f692bf3e08b2a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 936,
+      "sha256": "d5ae9bdc98ef195f6e8263dd6d1fe0ec8d5057294e52dad07bfce365bbb58eab"
+    },
+    {
+      "path": "licenses/Bootstrap-Icons-MIT.txt",
+      "bytes": 1114,
+      "sha256": "4917cd7b34a6c1623070857e6cb3e8a9dda39a641e4aeace1899494e5196d848"
+    },
+    {
+      "path": "licenses/Heebo-OFL.txt",
+      "bytes": 4474,
+      "sha256": "866747cbccae229433e946b90fcfc457b81c33ac89e593855770851354f9e6c3"
+    },
+    {
+      "path": "licenses/React-DOM-MIT.txt",
+      "bytes": 1086,
+      "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+    },
+    {
+      "path": "licenses/React-MIT.txt",
+      "bytes": 1086,
+      "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3119,
+      "sha256": "16425cf2c53bdff85eb910660ea18471f8a379b21f866df65443b7ceaff076b6"
+    }
+  ]
+}
